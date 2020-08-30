@@ -11,4 +11,4 @@ In addition to our own developed material, we have modified material from other 
 Name | Author(s) | Links
 ------- | ------- | ------
 ESD.865 Modeling of Electric Power Systems  | [Mort Webster](https://www.eme.psu.edu/directory/mort-d-webster)  | Taught Spring 2013, MIT
-Grid Science Winter School Julia Tutorial  | [Carleton Coffrin](https://github.com/ccoffrin), [Oscar Dowson](https://github.com/odow)  | [github](https://github.com/lanl-ansi/tutorial-grid-science-2019)
+Grid Science Winter School Julia Tutorial 2019  | [Carleton Coffrin](https://github.com/ccoffrin), [Oscar Dowson](https://github.com/odow)  | [github](https://github.com/lanl-ansi/tutorial-grid-science-2019)

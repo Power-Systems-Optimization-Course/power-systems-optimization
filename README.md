@@ -19,7 +19,7 @@ Finally, several datasets of realistic power systems are provided which students
 
 ### Notebooks
 
-1. [Constrained Optimization](lectures/Constrained-Optimization.ipynb)
+1. Constrained Optimization
 
 2. Using Julia and JuMP for Constrained Optimization
 
