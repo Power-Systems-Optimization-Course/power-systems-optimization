@@ -35,7 +35,7 @@ Finally, several datasets of realistic power systems are provided which students
 
 ### Homeworks
 
-1. [Homework 1 - Building Your First Model](Homeworks/Homework 1.ipynb)
+1. [Homework 1 - Building Your First Model](Homeworks/Homework-01.ipynb)
 
 ### License and copyright
 
