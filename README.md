@@ -19,9 +19,9 @@ Finally, several datasets of realistic power systems are provided which students
 
 ### Notebooks
 
-1. [Constrained Optimization](Notebooks/Constrained-Optimization.ipynb)
+1. [Constrained Optimization](Notebooks/01-Constrained-Optimization.ipynb)
 
-2. Using Julia and JuMP for Constrained Optimization
+2. [Using Julia and JuMP for Constrained Optimization](Notebooks/02-Anatomy-of-a-Model.ipynb)
 
 3. Simple Capacity Expansion Planning
 
@@ -33,6 +33,9 @@ Finally, several datasets of realistic power systems are provided which students
 
 7. Advanced Capacity Expansion Planning
 
+### Homeworks
+
+1. [Homework 1 - Building Your First Model](Homeworks/Homework 1.ipynb)
 
 ### License and copyright
 
