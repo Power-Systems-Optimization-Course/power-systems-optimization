@@ -23,7 +23,7 @@ Finally, several datasets of realistic power systems are provided which students
 
 2. [Using Julia and JuMP for Constrained Optimization](Notebooks/02-Anatomy-of-a-Model.ipynb)
 
-3. [Simple Capacity Expansion Planning](Notebooks/03-Basic-Capacity-Expansion.ipynb)
+3. [Basic Capacity Expansion Planning](Notebooks/03-Basic-Capacity-Expansion.ipynb)
 
 3. Economic Dispatch
 
