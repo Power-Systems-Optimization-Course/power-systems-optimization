@@ -25,7 +25,7 @@ Finally, several datasets of realistic power systems are provided which students
 
 3. [Basic Capacity Expansion Planning](Notebooks/03-Basic-Capacity-Expansion.ipynb)
 
-3. Economic Dispatch
+3. [Economic Dispatch](Notebooks/04-Economic-Dispatch.ipynb)
 
 5. Unit Commitment
 

@@ -1,0 +1,5 @@
+Fuel,Cost_per_MMBtu,CO2_content_tons_per_MMBtu
+None,0,0
+pacific_naturalgas,2.57,0.05306
+pacific_naturalgas_ccs90,3.04,0.00531
+pacific_naturalgas_ccs100,3.1,0
