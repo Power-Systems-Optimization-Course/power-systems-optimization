@@ -27,7 +27,7 @@ Finally, several datasets of realistic power systems are provided which students
 
 3. [Economic Dispatch](Notebooks/04-Economic-Dispatch.ipynb)
 
-5. Unit Commitment
+5. [Unit Commitment](Notebooks/05-Unit-Commitment.ipynb)
 
 6. DC Optimal Network Power Flow
 
@@ -38,6 +38,8 @@ Finally, several datasets of realistic power systems are provided which students
 1. [Homework 1 - Building Your First Model](Homeworks/Homework-01.ipynb)
 
 2. [Homework 2 - Basic Capacity Expansion](Homeworks/Homework-02.ipynb)
+
+3. [Homework 3 - Unit Commitment](Homeworks/Homework-03.ipynb)
 
 ### License and copyright
 
