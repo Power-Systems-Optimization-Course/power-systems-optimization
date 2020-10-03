@@ -1,0 +1,222 @@
+[
+  {
+    "connNode": 1,
+    "c2": 0.05,
+    "c1": 8,
+    "c0": 0,
+    "PgMax": 192,
+    "PgMin": 38,
+    "RgMax": 154,
+    "RgMin": -154,
+    "PgPrev": 38
+  },
+  {
+    "connNode": 2,
+    "c2": 0.03,
+    "c1": 6,
+    "c0": 0,
+    "PgMax": 192,
+    "PgMin": 38,
+    "RgMax": 154,
+    "RgMin": -154,
+    "PgPrev": 38
+  },
+  {
+    "connNode": 7,
+    "c2": 0.06,
+    "c1": 10,
+    "c0": 0,
+    "PgMax": 300,
+    "PgMin": 75,
+    "RgMax": 225,
+    "RgMin": -225,
+    "PgPrev": 75
+  },
+  {
+    "connNode": 13,
+    "c2": 0.08,
+    "c1": 25,
+    "c0": 0,
+    "PgMax": 591,
+    "PgMin": 206,
+    "RgMax": 385,
+    "RgMin": -385,
+    "PgPrev": 206
+  },
+  {
+    "connNode": 15,
+    "c2": 0.09,
+    "c1": 50,
+    "c0": 0,
+    "PgMax": 215,
+    "PgMin": 66,
+    "RgMax": 149,
+    "RgMin": -149,
+    "PgPrev": 66
+  },
+  {
+    "connNode": 16,
+    "c2": 0.09,
+    "c1": 39,
+    "c0": 0,
+    "PgMax": 155,
+    "PgMin": 54,
+    "RgMax": 101,
+    "RgMin": -101,
+    "PgPrev": 54
+  },
+  {
+    "connNode": 18,
+    "c2": 0.06,
+    "c1": 11,
+    "c0": 0,
+    "PgMax": 400,
+    "PgMin": 100,
+    "RgMax": 300,
+    "RgMin": -300,
+    "PgPrev": 100
+  },
+  {
+    "connNode": 21,
+    "c2": 0.07,
+    "c1": 9,
+    "c0": 0,
+    "PgMax": 400,
+    "PgMin": 100,
+    "RgMax": 300,
+    "RgMin": -300,
+    "PgPrev": 100
+  },
+  {
+    "connNode": 22,
+    "c2": 0.05,
+    "c1": 10,
+    "c0": 0,
+    "PgMax": 300,
+    "PgMin": 60,
+    "RgMax": 240,
+    "RgMin": -240,
+    "PgPrev": 60
+  },
+  {
+    "connNode": 23,
+    "c2": 0.06,
+    "c1": 7,
+    "c0": 0,
+    "PgMax": 660,
+    "PgMin": 250,
+    "RgMax": 410,
+    "RgMin": -410,
+    "PgPrev": 250
+  },
+  {
+    "connNode": 25,
+    "c2": 0.05,
+    "c1": 12,
+    "c0": 0,
+    "PgMax": 192,
+    "PgMin": 38,
+    "RgMax": 154,
+    "RgMin": -154,
+    "PgPrev": 38
+  },
+  {
+    "connNode": 26,
+    "c2": 0.03,
+    "c1": 6,
+    "c0": 0,
+    "PgMax": 192,
+    "PgMin": 38,
+    "RgMax": 154,
+    "RgMin": -154,
+    "PgPrev": 38
+  },
+  {
+    "connNode": 31,
+    "c2": 0.06,
+    "c1": 19,
+    "c0": 0,
+    "PgMax": 300,
+    "PgMin": 75,
+    "RgMax": 225,
+    "RgMin": -225,
+    "PgPrev": 75
+  },
+  {
+    "connNode": 37,
+    "c2": 0.08,
+    "c1": 20,
+    "c0": 0,
+    "PgMax": 591,
+    "PgMin": 206,
+    "RgMax": 385,
+    "RgMin": -385,
+    "PgPrev": 206
+  },
+  {
+    "connNode": 39,
+    "c2": 0.09,
+    "c1": 40,
+    "c0": 0,
+    "PgMax": 215,
+    "PgMin": 66,
+    "RgMax": 149,
+    "RgMin": -149,
+    "PgPrev": 66
+  },
+  {
+    "connNode": 40,
+    "c2": 0.09,
+    "c1": 55,
+    "c0": 0,
+    "PgMax": 155,
+    "PgMin": 54,
+    "RgMax": 101,
+    "RgMin": -101,
+    "PgPrev": 54
+  },
+  {
+    "connNode": 42,
+    "c2": 0.06,
+    "c1": 12,
+    "c0": 0,
+    "PgMax": 400,
+    "PgMin": 100,
+    "RgMax": 300,
+    "RgMin": -300,
+    "PgPrev": 100
+  },
+  {
+    "connNode": 45,
+    "c2": 0.07,
+    "c1": 14,
+    "c0": 0,
+    "PgMax": 400,
+    "PgMin": 100,
+    "RgMax": 300,
+    "RgMin": -300,
+    "PgPrev": 100
+  },
+  {
+    "connNode": 46,
+    "c2": 0.05,
+    "c1": 19,
+    "c0": 0,
+    "PgMax": 300,
+    "PgMin": 60,
+    "RgMax": 240,
+    "RgMin": -240,
+    "PgPrev": 60
+  },
+  {
+    "connNode": 47,
+    "c2": 0.06,
+    "c1": 50,
+    "c0": 0,
+    "PgMax": 660,
+    "PgMin": 250,
+    "RgMax": 410,
+    "RgMin": -410,
+    "PgPrev": 250
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "connNode": 1,
+    "c2": 0,
+    "c1": 10,
+    "c0": 0,
+    "PgMax": 150,
+    "PgMin": 0,
+    "RgMax": 150,
+    "RgMin": -150,
+    "PgPrev": 0
+  },
+  {
+    "connNode": 2,
+    "c2": 0,
+    "c1": 10,
+    "c0": 0,
+    "PgMax": 100,
+    "PgMin": 0,
+    "RgMax": 100,
+    "RgMin": -100,
+    "PgPrev": 0
+  },
+  {
+    "connNode": 3,
+    "c2": 0,
+    "c1": 10,
+    "c0": 0,
+    "PgMax": 150,
+    "PgMin": 0,
+    "RgMax": 150,
+    "RgMin": -150,
+    "PgPrev": 0
+  }
+]

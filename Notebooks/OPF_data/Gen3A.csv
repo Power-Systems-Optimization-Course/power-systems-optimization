@@ -1,0 +1,4 @@
+connNode	c2	c1	c0	PgMax	PgMin	RgMax	RgMin	PgPrev
+1	0	10	0	1000	0	1000	-1000	0
+2	0	30	0	1000	0	1000	-1000	0
+3	0	20	0	1000	0	1000	-1000	0

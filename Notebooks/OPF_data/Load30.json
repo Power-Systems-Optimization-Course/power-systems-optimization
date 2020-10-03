@@ -1,0 +1,102 @@
+[
+  {
+    "ConnNode": 2,
+    "Interval-1_Load": -21.7,
+    "Interval-2_Load": -21.7
+  },
+  {
+    "ConnNode": 3,
+    "Interval-1_Load": -2.4,
+    "Interval-2_Load": -2.4
+  },
+  {
+    "ConnNode": 4,
+    "Interval-1_Load": -7.6,
+    "Interval-2_Load": -7.6
+  },
+  {
+    "ConnNode": 7,
+    "Interval-1_Load": -22.8,
+    "Interval-2_Load": -22.8
+  },
+  {
+    "ConnNode": 8,
+    "Interval-1_Load": -30,
+    "Interval-2_Load": -30
+  },
+  {
+    "ConnNode": 10,
+    "Interval-1_Load": -5.8,
+    "Interval-2_Load": -5.8
+  },
+  {
+    "ConnNode": 12,
+    "Interval-1_Load": -11.2,
+    "Interval-2_Load": -16.2
+  },
+  {
+    "ConnNode": 14,
+    "Interval-1_Load": -6.2,
+    "Interval-2_Load": -6.2
+  },
+  {
+    "ConnNode": 15,
+    "Interval-1_Load": -8.2,
+    "Interval-2_Load": -8.2
+  },
+  {
+    "ConnNode": 16,
+    "Interval-1_Load": -3.5,
+    "Interval-2_Load": -3.5
+  },
+  {
+    "ConnNode": 17,
+    "Interval-1_Load": -9,
+    "Interval-2_Load": -9
+  },
+  {
+    "ConnNode": 18,
+    "Interval-1_Load": -3.2,
+    "Interval-2_Load": -3.2
+  },
+  {
+    "ConnNode": 19,
+    "Interval-1_Load": -9.5,
+    "Interval-2_Load": -9.5
+  },
+  {
+    "ConnNode": 20,
+    "Interval-1_Load": -2.2,
+    "Interval-2_Load": -2.2
+  },
+  {
+    "ConnNode": 21,
+    "Interval-1_Load": -17.5,
+    "Interval-2_Load": -17.5
+  },
+  {
+    "ConnNode": 23,
+    "Interval-1_Load": -3.2,
+    "Interval-2_Load": -3.2
+  },
+  {
+    "ConnNode": 24,
+    "Interval-1_Load": -8.7,
+    "Interval-2_Load": -8.7
+  },
+  {
+    "ConnNode": 26,
+    "Interval-1_Load": -3.5,
+    "Interval-2_Load": -3.5
+  },
+  {
+    "ConnNode": 29,
+    "Interval-1_Load": -2.4,
+    "Interval-2_Load": -2.4
+  },
+  {
+    "ConnNode": 30,
+    "Interval-1_Load": -10.6,
+    "Interval-2_Load": -10.6
+  }
+]

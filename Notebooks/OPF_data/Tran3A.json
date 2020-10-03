@@ -1,0 +1,26 @@
+[
+  {
+    "fromNode": 1,
+    "toNode": 2,
+    "Resistance": 0.01938,
+    "Reactance": 0.05917,
+    "ContingencyMarked": 1,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 1,
+    "toNode": 3,
+    "Resistance": 0.01938,
+    "Reactance": 0.05917,
+    "ContingencyMarked": 1,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 2,
+    "toNode": 3,
+    "Resistance": 0.01938,
+    "Reactance": 0.05917,
+    "ContingencyMarked": 1,
+    "Capacity": 10000
+  }
+]

@@ -1,0 +1,4 @@
+fromNode	toNode	Resistance	Reactance	ContingencyMarked	Capacity
+1	2	0.001	0.15	1	100
+1	2	0.001	0.15	1	100
+2	1	0.001	0.15	1	100

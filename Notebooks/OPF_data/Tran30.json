@@ -1,0 +1,330 @@
+[
+  {
+    "fromNode": 1,
+    "toNode": 2,
+    "Resistance": 0.0192,
+    "Reactance": 0.0575,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 1,
+    "toNode": 3,
+    "Resistance": 0.0452,
+    "Reactance": 0.1652,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 2,
+    "toNode": 4,
+    "Resistance": 0.057,
+    "Reactance": 0.1737,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 2,
+    "toNode": 5,
+    "Resistance": 0.0472,
+    "Reactance": 0.1983,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 2,
+    "toNode": 6,
+    "Resistance": 0.0581,
+    "Reactance": 0.1763,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 3,
+    "toNode": 4,
+    "Resistance": 0.0132,
+    "Reactance": 0.0379,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 4,
+    "toNode": 6,
+    "Resistance": 0.0119,
+    "Reactance": 0.0414,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 4,
+    "toNode": 12,
+    "Resistance": 0,
+    "Reactance": 0.256,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 5,
+    "toNode": 7,
+    "Resistance": 0.046,
+    "Reactance": 0.116,
+    "ContingencyMarked": 1,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 6,
+    "toNode": 7,
+    "Resistance": 0.0267,
+    "Reactance": 0.082,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 6,
+    "toNode": 8,
+    "Resistance": 0.012,
+    "Reactance": 0.042,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 6,
+    "toNode": 9,
+    "Resistance": 0,
+    "Reactance": 0.208,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 6,
+    "toNode": 10,
+    "Resistance": 0,
+    "Reactance": 0.556,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 6,
+    "toNode": 28,
+    "Resistance": 0.0169,
+    "Reactance": 0.0599,
+    "ContingencyMarked": 1,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 8,
+    "toNode": 28,
+    "Resistance": 0.0636,
+    "Reactance": 0.2,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 9,
+    "toNode": 10,
+    "Resistance": 0,
+    "Reactance": 0.11,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 9,
+    "toNode": 11,
+    "Resistance": 0,
+    "Reactance": 0.208,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 10,
+    "toNode": 17,
+    "Resistance": 0.0324,
+    "Reactance": 0.0845,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 10,
+    "toNode": 20,
+    "Resistance": 0.0936,
+    "Reactance": 0.209,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 10,
+    "toNode": 21,
+    "Resistance": 0.0348,
+    "Reactance": 0.0749,
+    "ContingencyMarked": 1,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 10,
+    "toNode": 22,
+    "Resistance": 0.0727,
+    "Reactance": 0.1499,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 12,
+    "toNode": 13,
+    "Resistance": 0,
+    "Reactance": 0.14,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 12,
+    "toNode": 14,
+    "Resistance": 0.1231,
+    "Reactance": 0.2559,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 12,
+    "toNode": 15,
+    "Resistance": 0.0662,
+    "Reactance": 0.1304,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 12,
+    "toNode": 16,
+    "Resistance": 0.0945,
+    "Reactance": 0.1987,
+    "ContingencyMarked": 1,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 14,
+    "toNode": 15,
+    "Resistance": 0.221,
+    "Reactance": 0.1997,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 15,
+    "toNode": 18,
+    "Resistance": 0.1073,
+    "Reactance": 0.2185,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 15,
+    "toNode": 23,
+    "Resistance": 0.1,
+    "Reactance": 0.202,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 16,
+    "toNode": 17,
+    "Resistance": 0.0524,
+    "Reactance": 0.1923,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 18,
+    "toNode": 19,
+    "Resistance": 0.0639,
+    "Reactance": 0.1292,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 19,
+    "toNode": 20,
+    "Resistance": 0.034,
+    "Reactance": 0.068,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 21,
+    "toNode": 22,
+    "Resistance": 0.0116,
+    "Reactance": 0.0236,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 22,
+    "toNode": 24,
+    "Resistance": 0.115,
+    "Reactance": 0.179,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 23,
+    "toNode": 24,
+    "Resistance": 0.132,
+    "Reactance": 0.27,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 24,
+    "toNode": 25,
+    "Resistance": 0.1885,
+    "Reactance": 0.3292,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 25,
+    "toNode": 26,
+    "Resistance": 0.2544,
+    "Reactance": 0.38,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 25,
+    "toNode": 27,
+    "Resistance": 0.1093,
+    "Reactance": 0.2087,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 28,
+    "toNode": 27,
+    "Resistance": 0,
+    "Reactance": 0.396,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 27,
+    "toNode": 29,
+    "Resistance": 0.2198,
+    "Reactance": 0.4153,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 27,
+    "toNode": 30,
+    "Resistance": 0.3202,
+    "Reactance": 0.6027,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  },
+  {
+    "fromNode": 29,
+    "toNode": 30,
+    "Resistance": 0.2399,
+    "Reactance": 0.4533,
+    "ContingencyMarked": 0,
+    "Capacity": 10000
+  }
+]

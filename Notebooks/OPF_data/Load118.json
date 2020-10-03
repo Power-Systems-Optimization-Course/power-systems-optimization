@@ -1,0 +1,457 @@
+[
+  {
+    "ConnNode": 1,
+    "Interval-1_Load": -51,
+    "Interval-2_Load": -51
+  },
+  {
+    "ConnNode": 2,
+    "Interval-1_Load": -20,
+    "Interval-2_Load": -20
+  },
+  {
+    "ConnNode": 3,
+    "Interval-1_Load": -39,
+    "Interval-2_Load": -39
+  },
+  {
+    "ConnNode": 4,
+    "Interval-1_Load": -30,
+    "Interval-2_Load": -30
+  },
+  {
+    "ConnNode": 6,
+    "Interval-1_Load": -52,
+    "Interval-2_Load": -52
+  },
+  {
+    "ConnNode": 7,
+    "Interval-1_Load": -19,
+    "Interval-2_Load": -19
+  },
+  {
+    "ConnNode": 11,
+    "Interval-1_Load": -70,
+    "Interval-2_Load": -70
+  },
+  {
+    "ConnNode": 12,
+    "Interval-1_Load": -47,
+    "Interval-2_Load": -47
+  },
+  {
+    "ConnNode": 13,
+    "Interval-1_Load": -34,
+    "Interval-2_Load": -34
+  },
+  {
+    "ConnNode": 14,
+    "Interval-1_Load": -14,
+    "Interval-2_Load": -14
+  },
+  {
+    "ConnNode": 15,
+    "Interval-1_Load": -90,
+    "Interval-2_Load": -90
+  },
+  {
+    "ConnNode": 16,
+    "Interval-1_Load": -25,
+    "Interval-2_Load": -25
+  },
+  {
+    "ConnNode": 17,
+    "Interval-1_Load": -11,
+    "Interval-2_Load": -11
+  },
+  {
+    "ConnNode": 18,
+    "Interval-1_Load": -60,
+    "Interval-2_Load": -60
+  },
+  {
+    "ConnNode": 19,
+    "Interval-1_Load": -45,
+    "Interval-2_Load": -45
+  },
+  {
+    "ConnNode": 20,
+    "Interval-1_Load": -18,
+    "Interval-2_Load": -18
+  },
+  {
+    "ConnNode": 21,
+    "Interval-1_Load": -14,
+    "Interval-2_Load": -14
+  },
+  {
+    "ConnNode": 22,
+    "Interval-1_Load": -10,
+    "Interval-2_Load": -10
+  },
+  {
+    "ConnNode": 23,
+    "Interval-1_Load": -7,
+    "Interval-2_Load": -7
+  },
+  {
+    "ConnNode": 27,
+    "Interval-1_Load": -62,
+    "Interval-2_Load": -62
+  },
+  {
+    "ConnNode": 28,
+    "Interval-1_Load": -17,
+    "Interval-2_Load": -17
+  },
+  {
+    "ConnNode": 29,
+    "Interval-1_Load": -24,
+    "Interval-2_Load": -24
+  },
+  {
+    "ConnNode": 31,
+    "Interval-1_Load": -43,
+    "Interval-2_Load": -43
+  },
+  {
+    "ConnNode": 32,
+    "Interval-1_Load": -59,
+    "Interval-2_Load": -59
+  },
+  {
+    "ConnNode": 33,
+    "Interval-1_Load": -23,
+    "Interval-2_Load": -23
+  },
+  {
+    "ConnNode": 34,
+    "Interval-1_Load": -59,
+    "Interval-2_Load": -59
+  },
+  {
+    "ConnNode": 35,
+    "Interval-1_Load": -33,
+    "Interval-2_Load": -33
+  },
+  {
+    "ConnNode": 36,
+    "Interval-1_Load": -31,
+    "Interval-2_Load": -31
+  },
+  {
+    "ConnNode": 39,
+    "Interval-1_Load": -27,
+    "Interval-2_Load": -27
+  },
+  {
+    "ConnNode": 40,
+    "Interval-1_Load": -20,
+    "Interval-2_Load": -20
+  },
+  {
+    "ConnNode": 41,
+    "Interval-1_Load": -37,
+    "Interval-2_Load": -37
+  },
+  {
+    "ConnNode": 42,
+    "Interval-1_Load": -37,
+    "Interval-2_Load": -37
+  },
+  {
+    "ConnNode": 43,
+    "Interval-1_Load": -18,
+    "Interval-2_Load": -18
+  },
+  {
+    "ConnNode": 44,
+    "Interval-1_Load": -16,
+    "Interval-2_Load": -16
+  },
+  {
+    "ConnNode": 45,
+    "Interval-1_Load": -53,
+    "Interval-2_Load": -53
+  },
+  {
+    "ConnNode": 46,
+    "Interval-1_Load": -28,
+    "Interval-2_Load": -28
+  },
+  {
+    "ConnNode": 47,
+    "Interval-1_Load": -34,
+    "Interval-2_Load": -34
+  },
+  {
+    "ConnNode": 48,
+    "Interval-1_Load": -20,
+    "Interval-2_Load": -20
+  },
+  {
+    "ConnNode": 49,
+    "Interval-1_Load": -87,
+    "Interval-2_Load": -87
+  },
+  {
+    "ConnNode": 50,
+    "Interval-1_Load": -17,
+    "Interval-2_Load": -17
+  },
+  {
+    "ConnNode": 51,
+    "Interval-1_Load": -17,
+    "Interval-2_Load": -37
+  },
+  {
+    "ConnNode": 52,
+    "Interval-1_Load": -18,
+    "Interval-2_Load": -18
+  },
+  {
+    "ConnNode": 53,
+    "Interval-1_Load": -23,
+    "Interval-2_Load": -23
+  },
+  {
+    "ConnNode": 54,
+    "Interval-1_Load": -113,
+    "Interval-2_Load": -113
+  },
+  {
+    "ConnNode": 55,
+    "Interval-1_Load": -63,
+    "Interval-2_Load": -63
+  },
+  {
+    "ConnNode": 56,
+    "Interval-1_Load": -84,
+    "Interval-2_Load": -84
+  },
+  {
+    "ConnNode": 57,
+    "Interval-1_Load": -12,
+    "Interval-2_Load": -12
+  },
+  {
+    "ConnNode": 58,
+    "Interval-1_Load": -12,
+    "Interval-2_Load": -12
+  },
+  {
+    "ConnNode": 59,
+    "Interval-1_Load": -277,
+    "Interval-2_Load": -277
+  },
+  {
+    "ConnNode": 60,
+    "Interval-1_Load": -78,
+    "Interval-2_Load": -78
+  },
+  {
+    "ConnNode": 62,
+    "Interval-1_Load": -77,
+    "Interval-2_Load": -77
+  },
+  {
+    "ConnNode": 66,
+    "Interval-1_Load": -39,
+    "Interval-2_Load": -39
+  },
+  {
+    "ConnNode": 67,
+    "Interval-1_Load": -28,
+    "Interval-2_Load": -28
+  },
+  {
+    "ConnNode": 70,
+    "Interval-1_Load": -66,
+    "Interval-2_Load": -66
+  },
+  {
+    "ConnNode": 74,
+    "Interval-1_Load": -68,
+    "Interval-2_Load": -68
+  },
+  {
+    "ConnNode": 75,
+    "Interval-1_Load": -47,
+    "Interval-2_Load": -47
+  },
+  {
+    "ConnNode": 76,
+    "Interval-1_Load": -68,
+    "Interval-2_Load": -68
+  },
+  {
+    "ConnNode": 77,
+    "Interval-1_Load": -61,
+    "Interval-2_Load": -61
+  },
+  {
+    "ConnNode": 78,
+    "Interval-1_Load": -71,
+    "Interval-2_Load": -71
+  },
+  {
+    "ConnNode": 79,
+    "Interval-1_Load": -39,
+    "Interval-2_Load": -39
+  },
+  {
+    "ConnNode": 80,
+    "Interval-1_Load": -130,
+    "Interval-2_Load": -130
+  },
+  {
+    "ConnNode": 82,
+    "Interval-1_Load": -54,
+    "Interval-2_Load": -54
+  },
+  {
+    "ConnNode": 83,
+    "Interval-1_Load": -20,
+    "Interval-2_Load": -20
+  },
+  {
+    "ConnNode": 84,
+    "Interval-1_Load": -11,
+    "Interval-2_Load": -11
+  },
+  {
+    "ConnNode": 85,
+    "Interval-1_Load": -24,
+    "Interval-2_Load": -24
+  },
+  {
+    "ConnNode": 86,
+    "Interval-1_Load": -21,
+    "Interval-2_Load": -21
+  },
+  {
+    "ConnNode": 88,
+    "Interval-1_Load": -48,
+    "Interval-2_Load": -48
+  },
+  {
+    "ConnNode": 90,
+    "Interval-1_Load": -78,
+    "Interval-2_Load": -78
+  },
+  {
+    "ConnNode": 92,
+    "Interval-1_Load": -65,
+    "Interval-2_Load": -65
+  },
+  {
+    "ConnNode": 93,
+    "Interval-1_Load": -12,
+    "Interval-2_Load": -12
+  },
+  {
+    "ConnNode": 94,
+    "Interval-1_Load": -30,
+    "Interval-2_Load": -30
+  },
+  {
+    "ConnNode": 95,
+    "Interval-1_Load": -42,
+    "Interval-2_Load": -42
+  },
+  {
+    "ConnNode": 96,
+    "Interval-1_Load": -38,
+    "Interval-2_Load": -38
+  },
+  {
+    "ConnNode": 97,
+    "Interval-1_Load": -15,
+    "Interval-2_Load": -15
+  },
+  {
+    "ConnNode": 98,
+    "Interval-1_Load": -34,
+    "Interval-2_Load": -34
+  },
+  {
+    "ConnNode": 100,
+    "Interval-1_Load": -37,
+    "Interval-2_Load": -37
+  },
+  {
+    "ConnNode": 101,
+    "Interval-1_Load": -22,
+    "Interval-2_Load": -22
+  },
+  {
+    "ConnNode": 102,
+    "Interval-1_Load": -5,
+    "Interval-2_Load": -5
+  },
+  {
+    "ConnNode": 103,
+    "Interval-1_Load": -23,
+    "Interval-2_Load": -23
+  },
+  {
+    "ConnNode": 104,
+    "Interval-1_Load": -38,
+    "Interval-2_Load": -38
+  },
+  {
+    "ConnNode": 105,
+    "Interval-1_Load": -31,
+    "Interval-2_Load": -31
+  },
+  {
+    "ConnNode": 106,
+    "Interval-1_Load": -43,
+    "Interval-2_Load": -43
+  },
+  {
+    "ConnNode": 107,
+    "Interval-1_Load": -28,
+    "Interval-2_Load": -28
+  },
+  {
+    "ConnNode": 108,
+    "Interval-1_Load": -2,
+    "Interval-2_Load": -2
+  },
+  {
+    "ConnNode": 109,
+    "Interval-1_Load": -8,
+    "Interval-2_Load": -8
+  },
+  {
+    "ConnNode": 110,
+    "Interval-1_Load": -39,
+    "Interval-2_Load": -39
+  },
+  {
+    "ConnNode": 112,
+    "Interval-1_Load": -25,
+    "Interval-2_Load": -25
+  },
+  {
+    "ConnNode": 114,
+    "Interval-1_Load": -8,
+    "Interval-2_Load": -8
+  },
+  {
+    "ConnNode": 115,
+    "Interval-1_Load": -22,
+    "Interval-2_Load": -22
+  },
+  {
+    "ConnNode": 117,
+    "Interval-1_Load": -20,
+    "Interval-2_Load": -20
+  },
+  {
+    "ConnNode": 118,
+    "Interval-1_Load": -33,
+    "Interval-2_Load": -33
+  }
+]

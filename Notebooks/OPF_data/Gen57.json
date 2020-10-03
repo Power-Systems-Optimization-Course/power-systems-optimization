@@ -1,0 +1,79 @@
+[
+  {
+    "connNode": 1,
+    "c2": 0.0775795,
+    "c1": 20,
+    "c0": 0,
+    "PgMax": 575.88,
+    "PgMin": 0,
+    "RgMax": 20,
+    "RgMin": -20,
+    "PgPrev": 185.295
+  },
+  {
+    "connNode": 2,
+    "c2": 0.01,
+    "c1": 40,
+    "c0": 0,
+    "PgMax": 100,
+    "PgMin": 0,
+    "RgMax": 15,
+    "RgMin": -15,
+    "PgPrev": 100
+  },
+  {
+    "connNode": 3,
+    "c2": 0.25,
+    "c1": 20,
+    "c0": 0,
+    "PgMax": 140,
+    "PgMin": 0,
+    "RgMax": 30,
+    "RgMin": -30,
+    "PgPrev": 54.1054
+  },
+  {
+    "connNode": 6,
+    "c2": 0.01,
+    "c1": 40,
+    "c0": 0,
+    "PgMax": 100,
+    "PgMin": 0,
+    "RgMax": 10,
+    "RgMin": -10,
+    "PgPrev": 46.5345
+  },
+  {
+    "connNode": 8,
+    "c2": 0.0222222,
+    "c1": 20,
+    "c0": 0,
+    "PgMax": 550,
+    "PgMin": 0,
+    "RgMax": 20,
+    "RgMin": -20,
+    "PgPrev": 350.154
+  },
+  {
+    "connNode": 9,
+    "c2": 0.01,
+    "c1": 40,
+    "c0": 0,
+    "PgMax": 100,
+    "PgMin": 0,
+    "RgMax": 10,
+    "RgMin": -10,
+    "PgPrev": 100
+  },
+  {
+    "connNode": 12,
+    "c2": 0.0322581,
+    "c1": 20,
+    "c0": 0,
+    "PgMax": 410,
+    "PgMin": 0,
+    "RgMax": 40,
+    "RgMin": -40,
+    "PgPrev": 410
+  }
+]

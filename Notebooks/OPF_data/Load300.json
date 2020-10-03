@@ -1,0 +1,992 @@
+[
+  {
+    "ConnNode": 1,
+    "Interval-1_Load": -90,
+    "Interval-2_Load": -91
+  },
+  {
+    "ConnNode": 2,
+    "Interval-1_Load": -56,
+    "Interval-2_Load": -56
+  },
+  {
+    "ConnNode": 3,
+    "Interval-1_Load": -20,
+    "Interval-2_Load": -20
+  },
+  {
+    "ConnNode": 5,
+    "Interval-1_Load": -353,
+    "Interval-2_Load": -353
+  },
+  {
+    "ConnNode": 6,
+    "Interval-1_Load": -120,
+    "Interval-2_Load": -120
+  },
+  {
+    "ConnNode": 8,
+    "Interval-1_Load": -58,
+    "Interval-2_Load": -58
+  },
+  {
+    "ConnNode": 9,
+    "Interval-1_Load": -96,
+    "Interval-2_Load": -96
+  },
+  {
+    "ConnNode": 10,
+    "Interval-1_Load": -148,
+    "Interval-2_Load": -148
+  },
+  {
+    "ConnNode": 11,
+    "Interval-1_Load": -83,
+    "Interval-2_Load": -83
+  },
+  {
+    "ConnNode": 13,
+    "Interval-1_Load": -58,
+    "Interval-2_Load": -58
+  },
+  {
+    "ConnNode": 14,
+    "Interval-1_Load": -160,
+    "Interval-2_Load": -160
+  },
+  {
+    "ConnNode": 15,
+    "Interval-1_Load": -126.7,
+    "Interval-2_Load": -126.7
+  },
+  {
+    "ConnNode": 17,
+    "Interval-1_Load": -561,
+    "Interval-2_Load": -561
+  },
+  {
+    "ConnNode": 20,
+    "Interval-1_Load": -595,
+    "Interval-2_Load": -595
+  },
+  {
+    "ConnNode": 21,
+    "Interval-1_Load": -77,
+    "Interval-2_Load": -77
+  },
+  {
+    "ConnNode": 22,
+    "Interval-1_Load": -81,
+    "Interval-2_Load": -81
+  },
+  {
+    "ConnNode": 23,
+    "Interval-1_Load": -21,
+    "Interval-2_Load": -21
+  },
+  {
+    "ConnNode": 25,
+    "Interval-1_Load": -45,
+    "Interval-2_Load": -45
+  },
+  {
+    "ConnNode": 26,
+    "Interval-1_Load": -28,
+    "Interval-2_Load": -28
+  },
+  {
+    "ConnNode": 27,
+    "Interval-1_Load": -69,
+    "Interval-2_Load": -69
+  },
+  {
+    "ConnNode": 33,
+    "Interval-1_Load": -55,
+    "Interval-2_Load": -55
+  },
+  {
+    "ConnNode": 37,
+    "Interval-1_Load": -85,
+    "Interval-2_Load": -85
+  },
+  {
+    "ConnNode": 38,
+    "Interval-1_Load": -155,
+    "Interval-2_Load": -155
+  },
+  {
+    "ConnNode": 40,
+    "Interval-1_Load": -46,
+    "Interval-2_Load": -46
+  },
+  {
+    "ConnNode": 41,
+    "Interval-1_Load": -86,
+    "Interval-2_Load": -86
+  },
+  {
+    "ConnNode": 43,
+    "Interval-1_Load": -39,
+    "Interval-2_Load": -39
+  },
+  {
+    "ConnNode": 44,
+    "Interval-1_Load": -195,
+    "Interval-2_Load": -195
+  },
+  {
+    "ConnNode": 47,
+    "Interval-1_Load": -58,
+    "Interval-2_Load": -58
+  },
+  {
+    "ConnNode": 48,
+    "Interval-1_Load": -41,
+    "Interval-2_Load": -41
+  },
+  {
+    "ConnNode": 49,
+    "Interval-1_Load": -92,
+    "Interval-2_Load": -92
+  },
+  {
+    "ConnNode": 51,
+    "Interval-1_Load": -5,
+    "Interval-2_Load": -5
+  },
+  {
+    "ConnNode": 52,
+    "Interval-1_Load": -61,
+    "Interval-2_Load": -61
+  },
+  {
+    "ConnNode": 53,
+    "Interval-1_Load": -69,
+    "Interval-2_Load": -69
+  },
+  {
+    "ConnNode": 54,
+    "Interval-1_Load": -10,
+    "Interval-2_Load": -10
+  },
+  {
+    "ConnNode": 55,
+    "Interval-1_Load": -22,
+    "Interval-2_Load": -22
+  },
+  {
+    "ConnNode": 57,
+    "Interval-1_Load": -98,
+    "Interval-2_Load": -98
+  },
+  {
+    "ConnNode": 58,
+    "Interval-1_Load": -14,
+    "Interval-2_Load": -14
+  },
+  {
+    "ConnNode": 59,
+    "Interval-1_Load": -218,
+    "Interval-2_Load": -218
+  },
+  {
+    "ConnNode": 61,
+    "Interval-1_Load": -227,
+    "Interval-2_Load": -227
+  },
+  {
+    "ConnNode": 63,
+    "Interval-1_Load": -70,
+    "Interval-2_Load": -70
+  },
+  {
+    "ConnNode": 70,
+    "Interval-1_Load": -56,
+    "Interval-2_Load": -56
+  },
+  {
+    "ConnNode": 71,
+    "Interval-1_Load": -116,
+    "Interval-2_Load": -116
+  },
+  {
+    "ConnNode": 72,
+    "Interval-1_Load": -57,
+    "Interval-2_Load": -57
+  },
+  {
+    "ConnNode": 73,
+    "Interval-1_Load": -224,
+    "Interval-2_Load": -224
+  },
+  {
+    "ConnNode": 76,
+    "Interval-1_Load": -208,
+    "Interval-2_Load": -208
+  },
+  {
+    "ConnNode": 77,
+    "Interval-1_Load": -74,
+    "Interval-2_Load": -74
+  },
+  {
+    "ConnNode": 79,
+    "Interval-1_Load": -48,
+    "Interval-2_Load": -48
+  },
+  {
+    "ConnNode": 80,
+    "Interval-1_Load": -28,
+    "Interval-2_Load": -28
+  },
+  {
+    "ConnNode": 84,
+    "Interval-1_Load": -37,
+    "Interval-2_Load": -37
+  },
+  {
+    "ConnNode": 89,
+    "Interval-1_Load": -44.2,
+    "Interval-2_Load": -44.2
+  },
+  {
+    "ConnNode": 90,
+    "Interval-1_Load": -66,
+    "Interval-2_Load": -66
+  },
+  {
+    "ConnNode": 91,
+    "Interval-1_Load": -17.4,
+    "Interval-2_Load": -17.4
+  },
+  {
+    "ConnNode": 92,
+    "Interval-1_Load": -15.8,
+    "Interval-2_Load": -15.8
+  },
+  {
+    "ConnNode": 94,
+    "Interval-1_Load": -60.3,
+    "Interval-2_Load": -60.3
+  },
+  {
+    "ConnNode": 97,
+    "Interval-1_Load": -39.9,
+    "Interval-2_Load": -39.9
+  },
+  {
+    "ConnNode": 98,
+    "Interval-1_Load": -66.7,
+    "Interval-2_Load": -66.7
+  },
+  {
+    "ConnNode": 99,
+    "Interval-1_Load": -83.5,
+    "Interval-2_Load": -83.5
+  },
+  {
+    "ConnNode": 102,
+    "Interval-1_Load": -77.8,
+    "Interval-2_Load": -77.8
+  },
+  {
+    "ConnNode": 103,
+    "Interval-1_Load": -32,
+    "Interval-2_Load": -32
+  },
+  {
+    "ConnNode": 104,
+    "Interval-1_Load": -8.6,
+    "Interval-2_Load": -8.6
+  },
+  {
+    "ConnNode": 105,
+    "Interval-1_Load": -49.6,
+    "Interval-2_Load": -49.6
+  },
+  {
+    "ConnNode": 107,
+    "Interval-1_Load": -4.6,
+    "Interval-2_Load": -4.6
+  },
+  {
+    "ConnNode": 108,
+    "Interval-1_Load": -112.1,
+    "Interval-2_Load": -112.1
+  },
+  {
+    "ConnNode": 109,
+    "Interval-1_Load": -30.7,
+    "Interval-2_Load": -30.7
+  },
+  {
+    "ConnNode": 110,
+    "Interval-1_Load": -63,
+    "Interval-2_Load": -63
+  },
+  {
+    "ConnNode": 112,
+    "Interval-1_Load": -19.6,
+    "Interval-2_Load": -19.6
+  },
+  {
+    "ConnNode": 113,
+    "Interval-1_Load": -26.2,
+    "Interval-2_Load": -26.2
+  },
+  {
+    "ConnNode": 114,
+    "Interval-1_Load": -18.2,
+    "Interval-2_Load": -18.2
+  },
+  {
+    "ConnNode": 118,
+    "Interval-1_Load": -14.1,
+    "Interval-2_Load": -14.1
+  },
+  {
+    "ConnNode": 120,
+    "Interval-1_Load": -777,
+    "Interval-2_Load": -777
+  },
+  {
+    "ConnNode": 121,
+    "Interval-1_Load": -535,
+    "Interval-2_Load": -535
+  },
+  {
+    "ConnNode": 122,
+    "Interval-1_Load": -229.1,
+    "Interval-2_Load": -229.1
+  },
+  {
+    "ConnNode": 123,
+    "Interval-1_Load": -78,
+    "Interval-2_Load": -78
+  },
+  {
+    "ConnNode": 124,
+    "Interval-1_Load": -276.4,
+    "Interval-2_Load": -276.4
+  },
+  {
+    "ConnNode": 125,
+    "Interval-1_Load": -514.8,
+    "Interval-2_Load": -514.8
+  },
+  {
+    "ConnNode": 126,
+    "Interval-1_Load": -57.9,
+    "Interval-2_Load": -57.9
+  },
+  {
+    "ConnNode": 127,
+    "Interval-1_Load": -380.8,
+    "Interval-2_Load": -380.8
+  },
+  {
+    "ConnNode": 135,
+    "Interval-1_Load": -169.2,
+    "Interval-2_Load": -169.2
+  },
+  {
+    "ConnNode": 136,
+    "Interval-1_Load": -55.2,
+    "Interval-2_Load": -55.2
+  },
+  {
+    "ConnNode": 137,
+    "Interval-1_Load": -273.6,
+    "Interval-2_Load": -273.6
+  },
+  {
+    "ConnNode": 138,
+    "Interval-1_Load": -826.7,
+    "Interval-2_Load": -826.7
+  },
+  {
+    "ConnNode": 139,
+    "Interval-1_Load": -595,
+    "Interval-2_Load": -595
+  },
+  {
+    "ConnNode": 140,
+    "Interval-1_Load": -387.7,
+    "Interval-2_Load": -387.7
+  },
+  {
+    "ConnNode": 141,
+    "Interval-1_Load": -145,
+    "Interval-2_Load": -145
+  },
+  {
+    "ConnNode": 142,
+    "Interval-1_Load": -56.5,
+    "Interval-2_Load": -56.5
+  },
+  {
+    "ConnNode": 143,
+    "Interval-1_Load": -89.5,
+    "Interval-2_Load": -89.5
+  },
+  {
+    "ConnNode": 145,
+    "Interval-1_Load": -24,
+    "Interval-2_Load": -25
+  },
+  {
+    "ConnNode": 148,
+    "Interval-1_Load": -63,
+    "Interval-2_Load": -63
+  },
+  {
+    "ConnNode": 152,
+    "Interval-1_Load": -17,
+    "Interval-2_Load": -17
+  },
+  {
+    "ConnNode": 154,
+    "Interval-1_Load": -70,
+    "Interval-2_Load": -70
+  },
+  {
+    "ConnNode": 155,
+    "Interval-1_Load": -200,
+    "Interval-2_Load": -200
+  },
+  {
+    "ConnNode": 156,
+    "Interval-1_Load": -75,
+    "Interval-2_Load": -75
+  },
+  {
+    "ConnNode": 157,
+    "Interval-1_Load": -123.5,
+    "Interval-2_Load": -123.5
+  },
+  {
+    "ConnNode": 159,
+    "Interval-1_Load": -33,
+    "Interval-2_Load": -33
+  },
+  {
+    "ConnNode": 161,
+    "Interval-1_Load": -35,
+    "Interval-2_Load": -35
+  },
+  {
+    "ConnNode": 162,
+    "Interval-1_Load": -85,
+    "Interval-2_Load": -85
+  },
+  {
+    "ConnNode": 167,
+    "Interval-1_Load": -299.9,
+    "Interval-2_Load": -299.9
+  },
+  {
+    "ConnNode": 170,
+    "Interval-1_Load": -481.8,
+    "Interval-2_Load": -481.8
+  },
+  {
+    "ConnNode": 171,
+    "Interval-1_Load": -763.6,
+    "Interval-2_Load": -763.6
+  },
+  {
+    "ConnNode": 172,
+    "Interval-1_Load": -26.5,
+    "Interval-2_Load": -26.5
+  },
+  {
+    "ConnNode": 173,
+    "Interval-1_Load": -163.5,
+    "Interval-2_Load": -163.5
+  },
+  {
+    "ConnNode": 175,
+    "Interval-1_Load": -176,
+    "Interval-2_Load": -176
+  },
+  {
+    "ConnNode": 176,
+    "Interval-1_Load": -5,
+    "Interval-2_Load": -5
+  },
+  {
+    "ConnNode": 177,
+    "Interval-1_Load": -28,
+    "Interval-2_Load": -28
+  },
+  {
+    "ConnNode": 178,
+    "Interval-1_Load": -427.4,
+    "Interval-2_Load": -427.4
+  },
+  {
+    "ConnNode": 179,
+    "Interval-1_Load": -74,
+    "Interval-2_Load": -74
+  },
+  {
+    "ConnNode": 180,
+    "Interval-1_Load": -69.5,
+    "Interval-2_Load": -69.5
+  },
+  {
+    "ConnNode": 181,
+    "Interval-1_Load": -73.4,
+    "Interval-2_Load": -73.4
+  },
+  {
+    "ConnNode": 182,
+    "Interval-1_Load": -240.7,
+    "Interval-2_Load": -240.7
+  },
+  {
+    "ConnNode": 183,
+    "Interval-1_Load": -40,
+    "Interval-2_Load": -40
+  },
+  {
+    "ConnNode": 184,
+    "Interval-1_Load": -136.8,
+    "Interval-2_Load": -136.8
+  },
+  {
+    "ConnNode": 186,
+    "Interval-1_Load": -59.8,
+    "Interval-2_Load": -59.8
+  },
+  {
+    "ConnNode": 187,
+    "Interval-1_Load": -59.8,
+    "Interval-2_Load": -59.8
+  },
+  {
+    "ConnNode": 188,
+    "Interval-1_Load": -182.6,
+    "Interval-2_Load": -182.6
+  },
+  {
+    "ConnNode": 189,
+    "Interval-1_Load": -7,
+    "Interval-2_Load": -7
+  },
+  {
+    "ConnNode": 191,
+    "Interval-1_Load": -489,
+    "Interval-2_Load": -489
+  },
+  {
+    "ConnNode": 192,
+    "Interval-1_Load": -800,
+    "Interval-2_Load": -800
+  },
+  {
+    "ConnNode": 196,
+    "Interval-1_Load": -10,
+    "Interval-2_Load": -10
+  },
+  {
+    "ConnNode": 197,
+    "Interval-1_Load": -43,
+    "Interval-2_Load": -43
+  },
+  {
+    "ConnNode": 198,
+    "Interval-1_Load": -64,
+    "Interval-2_Load": -64
+  },
+  {
+    "ConnNode": 199,
+    "Interval-1_Load": -35,
+    "Interval-2_Load": -35
+  },
+  {
+    "ConnNode": 200,
+    "Interval-1_Load": -27,
+    "Interval-2_Load": -27
+  },
+  {
+    "ConnNode": 201,
+    "Interval-1_Load": -41,
+    "Interval-2_Load": -41
+  },
+  {
+    "ConnNode": 202,
+    "Interval-1_Load": -38,
+    "Interval-2_Load": -38
+  },
+  {
+    "ConnNode": 203,
+    "Interval-1_Load": -42,
+    "Interval-2_Load": -42
+  },
+  {
+    "ConnNode": 204,
+    "Interval-1_Load": -72,
+    "Interval-2_Load": -72
+  },
+  {
+    "ConnNode": 206,
+    "Interval-1_Load": -12,
+    "Interval-2_Load": -12
+  },
+  {
+    "ConnNode": 207,
+    "Interval-1_Load": -21,
+    "Interval-2_Load": -21
+  },
+  {
+    "ConnNode": 208,
+    "Interval-1_Load": -7,
+    "Interval-2_Load": -7
+  },
+  {
+    "ConnNode": 209,
+    "Interval-1_Load": -38,
+    "Interval-2_Load": -38
+  },
+  {
+    "ConnNode": 211,
+    "Interval-1_Load": -96,
+    "Interval-2_Load": -96
+  },
+  {
+    "ConnNode": 214,
+    "Interval-1_Load": -22,
+    "Interval-2_Load": -22
+  },
+  {
+    "ConnNode": 215,
+    "Interval-1_Load": -47,
+    "Interval-2_Load": -47
+  },
+  {
+    "ConnNode": 216,
+    "Interval-1_Load": -176,
+    "Interval-2_Load": -176
+  },
+  {
+    "ConnNode": 217,
+    "Interval-1_Load": -100,
+    "Interval-2_Load": -100
+  },
+  {
+    "ConnNode": 218,
+    "Interval-1_Load": -131,
+    "Interval-2_Load": -131
+  },
+  {
+    "ConnNode": 220,
+    "Interval-1_Load": -285,
+    "Interval-2_Load": -285
+  },
+  {
+    "ConnNode": 221,
+    "Interval-1_Load": -171,
+    "Interval-2_Load": -171
+  },
+  {
+    "ConnNode": 222,
+    "Interval-1_Load": -328,
+    "Interval-2_Load": -328
+  },
+  {
+    "ConnNode": 223,
+    "Interval-1_Load": -428,
+    "Interval-2_Load": -428
+  },
+  {
+    "ConnNode": 224,
+    "Interval-1_Load": -173,
+    "Interval-2_Load": -173
+  },
+  {
+    "ConnNode": 225,
+    "Interval-1_Load": -410,
+    "Interval-2_Load": -410
+  },
+  {
+    "ConnNode": 227,
+    "Interval-1_Load": -538,
+    "Interval-2_Load": -538
+  },
+  {
+    "ConnNode": 228,
+    "Interval-1_Load": -223,
+    "Interval-2_Load": -223
+  },
+  {
+    "ConnNode": 229,
+    "Interval-1_Load": -96,
+    "Interval-2_Load": -96
+  },
+  {
+    "ConnNode": 231,
+    "Interval-1_Load": -159,
+    "Interval-2_Load": -159
+  },
+  {
+    "ConnNode": 232,
+    "Interval-1_Load": -448,
+    "Interval-2_Load": -448
+  },
+  {
+    "ConnNode": 233,
+    "Interval-1_Load": -404,
+    "Interval-2_Load": -404
+  },
+  {
+    "ConnNode": 234,
+    "Interval-1_Load": -572,
+    "Interval-2_Load": -572
+  },
+  {
+    "ConnNode": 235,
+    "Interval-1_Load": -269,
+    "Interval-2_Load": -269
+  },
+  {
+    "ConnNode": 238,
+    "Interval-1_Load": -255,
+    "Interval-2_Load": -255
+  },
+  {
+    "ConnNode": 243,
+    "Interval-1_Load": -8,
+    "Interval-2_Load": -8
+  },
+  {
+    "ConnNode": 245,
+    "Interval-1_Load": -61,
+    "Interval-2_Load": -61
+  },
+  {
+    "ConnNode": 246,
+    "Interval-1_Load": -77,
+    "Interval-2_Load": -77
+  },
+  {
+    "ConnNode": 247,
+    "Interval-1_Load": -61,
+    "Interval-2_Load": -61
+  },
+  {
+    "ConnNode": 248,
+    "Interval-1_Load": -29,
+    "Interval-2_Load": -29
+  },
+  {
+    "ConnNode": 249,
+    "Interval-1_Load": -29,
+    "Interval-2_Load": -29
+  },
+  {
+    "ConnNode": 250,
+    "Interval-1_Load": -23,
+    "Interval-2_Load": -23
+  },
+  {
+    "ConnNode": 281,
+    "Interval-1_Load": -33.1,
+    "Interval-2_Load": -33.1
+  },
+  {
+    "ConnNode": 319,
+    "Interval-1_Load": -115.8,
+    "Interval-2_Load": -115.8
+  },
+  {
+    "ConnNode": 320,
+    "Interval-1_Load": -2.4,
+    "Interval-2_Load": -2.4
+  },
+  {
+    "ConnNode": 322,
+    "Interval-1_Load": -2.4,
+    "Interval-2_Load": -2.4
+  },
+  {
+    "ConnNode": 323,
+    "Interval-1_Load": -14.9,
+    "Interval-2_Load": -14.9
+  },
+  {
+    "ConnNode": 324,
+    "Interval-1_Load": -24.7,
+    "Interval-2_Load": -24.7
+  },
+  {
+    "ConnNode": 526,
+    "Interval-1_Load": -145.3,
+    "Interval-2_Load": -145.3
+  },
+  {
+    "ConnNode": 528,
+    "Interval-1_Load": -28.1,
+    "Interval-2_Load": -28.1
+  },
+  {
+    "ConnNode": 531,
+    "Interval-1_Load": -14,
+    "Interval-2_Load": -14
+  },
+  {
+    "ConnNode": 552,
+    "Interval-1_Load": -11.1,
+    "Interval-2_Load": -11.1
+  },
+  {
+    "ConnNode": 562,
+    "Interval-1_Load": -50.5,
+    "Interval-2_Load": -50.5
+  },
+  {
+    "ConnNode": 609,
+    "Interval-1_Load": -29.6,
+    "Interval-2_Load": -29.6
+  },
+  {
+    "ConnNode": 664,
+    "Interval-1_Load": -113.7,
+    "Interval-2_Load": -113.7
+  },
+  {
+    "ConnNode": 1190,
+    "Interval-1_Load": -100.31,
+    "Interval-2_Load": -100.31
+  },
+  {
+    "ConnNode": 1200,
+    "Interval-1_Load": -100,
+    "Interval-2_Load": -100
+  },
+  {
+    "ConnNode": 9003,
+    "Interval-1_Load": -2.71,
+    "Interval-2_Load": -2.71
+  },
+  {
+    "ConnNode": 9004,
+    "Interval-1_Load": -0.86,
+    "Interval-2_Load": -0.86
+  },
+  {
+    "ConnNode": 9021,
+    "Interval-1_Load": -4.75,
+    "Interval-2_Load": -4.75
+  },
+  {
+    "ConnNode": 9022,
+    "Interval-1_Load": -1.53,
+    "Interval-2_Load": -1.53
+  },
+  {
+    "ConnNode": 9024,
+    "Interval-1_Load": -1.35,
+    "Interval-2_Load": -1.35
+  },
+  {
+    "ConnNode": 9025,
+    "Interval-1_Load": -0.45,
+    "Interval-2_Load": -0.45
+  },
+  {
+    "ConnNode": 9026,
+    "Interval-1_Load": -0.45,
+    "Interval-2_Load": -0.45
+  },
+  {
+    "ConnNode": 9031,
+    "Interval-1_Load": -1.84,
+    "Interval-2_Load": -1.84
+  },
+  {
+    "ConnNode": 9032,
+    "Interval-1_Load": -1.39,
+    "Interval-2_Load": -1.39
+  },
+  {
+    "ConnNode": 9033,
+    "Interval-1_Load": -1.89,
+    "Interval-2_Load": -1.89
+  },
+  {
+    "ConnNode": 9034,
+    "Interval-1_Load": -1.55,
+    "Interval-2_Load": -1.55
+  },
+  {
+    "ConnNode": 9035,
+    "Interval-1_Load": -1.66,
+    "Interval-2_Load": -1.66
+  },
+  {
+    "ConnNode": 9036,
+    "Interval-1_Load": -3.03,
+    "Interval-2_Load": -3.03
+  },
+  {
+    "ConnNode": 9037,
+    "Interval-1_Load": -1.86,
+    "Interval-2_Load": -1.86
+  },
+  {
+    "ConnNode": 9038,
+    "Interval-1_Load": -2.58,
+    "Interval-2_Load": -2.58
+  },
+  {
+    "ConnNode": 9041,
+    "Interval-1_Load": -1.01,
+    "Interval-2_Load": -1.01
+  },
+  {
+    "ConnNode": 9042,
+    "Interval-1_Load": -0.81,
+    "Interval-2_Load": -0.81
+  },
+  {
+    "ConnNode": 9043,
+    "Interval-1_Load": -1.6,
+    "Interval-2_Load": -1.6
+  },
+  {
+    "ConnNode": 9052,
+    "Interval-1_Load": -30,
+    "Interval-2_Load": -30
+  },
+  {
+    "ConnNode": 9071,
+    "Interval-1_Load": -1.02,
+    "Interval-2_Load": -1.02
+  },
+  {
+    "ConnNode": 9072,
+    "Interval-1_Load": -1.02,
+    "Interval-2_Load": -1.02
+  },
+  {
+    "ConnNode": 9121,
+    "Interval-1_Load": -3.8,
+    "Interval-2_Load": -3.8
+  },
+  {
+    "ConnNode": 9533,
+    "Interval-1_Load": -1.19,
+    "Interval-2_Load": -2.19
+  },
+  {
+    "ConnNode": "",
+    "Interval-1_Load": -23890.46,
+    "Interval-2_Load": -23893.46
+  },
+  {
+    "ConnNode": "",
+    "Interval-1_Load": 0,
+    "Interval-2_Load": -3
+  }
+]

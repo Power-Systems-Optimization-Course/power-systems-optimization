@@ -1,0 +1,12 @@
+[
+  {
+    "ConnNode": 1,
+    "Interval-1_Load": -300,
+    "Interval-2_Load": -300
+  },
+  {
+    "ConnNode": 2,
+    "Interval-1_Load": -290,
+    "Interval-2_Load": -300
+  }
+]

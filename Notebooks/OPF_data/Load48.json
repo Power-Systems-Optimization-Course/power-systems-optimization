@@ -1,0 +1,172 @@
+[
+  {
+    "ConnNode": 1,
+    "Interval-1_Load": -72.561,
+    "Interval-2_Load": -72.561
+  },
+  {
+    "ConnNode": 2,
+    "Interval-1_Load": -64.923,
+    "Interval-2_Load": -64.923
+  },
+  {
+    "ConnNode": 3,
+    "Interval-1_Load": -120.2985,
+    "Interval-2_Load": -120.2985
+  },
+  {
+    "ConnNode": 4,
+    "Interval-1_Load": -49.647,
+    "Interval-2_Load": -49.647
+  },
+  {
+    "ConnNode": 5,
+    "Interval-1_Load": -47.7375,
+    "Interval-2_Load": -47.7375
+  },
+  {
+    "ConnNode": 6,
+    "Interval-1_Load": -91.656,
+    "Interval-2_Load": -91.656
+  },
+  {
+    "ConnNode": 7,
+    "Interval-1_Load": -84.018,
+    "Interval-2_Load": -84.018
+  },
+  {
+    "ConnNode": 8,
+    "Interval-1_Load": -114.57,
+    "Interval-2_Load": -114.57
+  },
+  {
+    "ConnNode": 9,
+    "Interval-1_Load": -116.4795,
+    "Interval-2_Load": -116.4795
+  },
+  {
+    "ConnNode": 10,
+    "Interval-1_Load": -129.846,
+    "Interval-2_Load": -129.846
+  },
+  {
+    "ConnNode": 13,
+    "Interval-1_Load": -177.5835,
+    "Interval-2_Load": -177.5835
+  },
+  {
+    "ConnNode": 14,
+    "Interval-1_Load": -129.846,
+    "Interval-2_Load": -129.846
+  },
+  {
+    "ConnNode": 15,
+    "Interval-1_Load": -211.9545,
+    "Interval-2_Load": -211.9545
+  },
+  {
+    "ConnNode": 16,
+    "Interval-1_Load": -66.8325,
+    "Interval-2_Load": -66.8325
+  },
+  {
+    "ConnNode": 18,
+    "Interval-1_Load": -223.4115,
+    "Interval-2_Load": -223.4115
+  },
+  {
+    "ConnNode": 19,
+    "Interval-1_Load": -122.208,
+    "Interval-2_Load": -122.208
+  },
+  {
+    "ConnNode": 20,
+    "Interval-1_Load": -85.9275,
+    "Interval-2_Load": -125.9275
+  },
+  {
+    "ConnNode": 25,
+    "Interval-1_Load": -72.561,
+    "Interval-2_Load": -72.561
+  },
+  {
+    "ConnNode": 26,
+    "Interval-1_Load": -64.923,
+    "Interval-2_Load": -64.923
+  },
+  {
+    "ConnNode": 27,
+    "Interval-1_Load": -120.2985,
+    "Interval-2_Load": -120.2985
+  },
+  {
+    "ConnNode": 28,
+    "Interval-1_Load": -49.647,
+    "Interval-2_Load": -49.647
+  },
+  {
+    "ConnNode": 29,
+    "Interval-1_Load": -47.7375,
+    "Interval-2_Load": -47.7375
+  },
+  {
+    "ConnNode": 30,
+    "Interval-1_Load": -91.656,
+    "Interval-2_Load": -91.656
+  },
+  {
+    "ConnNode": 31,
+    "Interval-1_Load": -84.018,
+    "Interval-2_Load": -84.018
+  },
+  {
+    "ConnNode": 32,
+    "Interval-1_Load": -114.57,
+    "Interval-2_Load": -134.57
+  },
+  {
+    "ConnNode": 33,
+    "Interval-1_Load": -116.4795,
+    "Interval-2_Load": -116.4795
+  },
+  {
+    "ConnNode": 34,
+    "Interval-1_Load": -129.846,
+    "Interval-2_Load": -129.846
+  },
+  {
+    "ConnNode": 37,
+    "Interval-1_Load": -177.5835,
+    "Interval-2_Load": -177.5835
+  },
+  {
+    "ConnNode": 38,
+    "Interval-1_Load": -129.846,
+    "Interval-2_Load": -129.846
+  },
+  {
+    "ConnNode": 39,
+    "Interval-1_Load": -211.9545,
+    "Interval-2_Load": -211.9545
+  },
+  {
+    "ConnNode": 40,
+    "Interval-1_Load": -66.8325,
+    "Interval-2_Load": -66.8325
+  },
+  {
+    "ConnNode": 42,
+    "Interval-1_Load": -223.4115,
+    "Interval-2_Load": -223.4115
+  },
+  {
+    "ConnNode": 43,
+    "Interval-1_Load": -122.208,
+    "Interval-2_Load": -122.208
+  },
+  {
+    "ConnNode": 44,
+    "Interval-1_Load": -85.9275,
+    "Interval-2_Load": -85.9275
+  }
+]

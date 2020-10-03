@@ -1,0 +1,58 @@
+[
+  {
+    "fromNode": 1,
+    "toNode": 2,
+    "Resistance": 0.02,
+    "Reactance": 0.06,
+    "ContingencyMarked": 1,
+    "Capacity": 100
+  },
+  {
+    "fromNode": 1,
+    "toNode": 3,
+    "Resistance": 0.08,
+    "Reactance": 0.24,
+    "ContingencyMarked": 1,
+    "Capacity": 100
+  },
+  {
+    "fromNode": 2,
+    "toNode": 3,
+    "Resistance": 0.06,
+    "Reactance": 0.18,
+    "ContingencyMarked": 1,
+    "Capacity": 100
+  },
+  {
+    "fromNode": 2,
+    "toNode": 4,
+    "Resistance": 0.06,
+    "Reactance": 0.18,
+    "ContingencyMarked": 1,
+    "Capacity": 100
+  },
+  {
+    "fromNode": 2,
+    "toNode": 5,
+    "Resistance": 0.04,
+    "Reactance": 0.12,
+    "ContingencyMarked": 1,
+    "Capacity": 100
+  },
+  {
+    "fromNode": 3,
+    "toNode": 4,
+    "Resistance": 0.01,
+    "Reactance": 0.03,
+    "ContingencyMarked": 1,
+    "Capacity": 100
+  },
+  {
+    "fromNode": 4,
+    "toNode": 5,
+    "Resistance": 0.08,
+    "Reactance": 0.24,
+    "ContingencyMarked": 1,
+    "Capacity": 100
+  }
+]

@@ -1,0 +1,3290 @@
+[
+  {
+    "fromNode": 3,
+    "toNode": 1,
+    "Resistance": 0,
+    "Reactance": 0.052,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 1,
+    "toNode": 5,
+    "Resistance": 0.001,
+    "Reactance": 0.006,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7001,
+    "toNode": 1,
+    "Resistance": 0,
+    "Reactance": 0.01953,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 3,
+    "toNode": 2,
+    "Resistance": 0,
+    "Reactance": 0.052,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 2,
+    "toNode": 6,
+    "Resistance": 0.001,
+    "Reactance": 0.009,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 2,
+    "toNode": 8,
+    "Resistance": 0.006,
+    "Reactance": 0.027,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7002,
+    "toNode": 2,
+    "Resistance": 0.001,
+    "Reactance": 0.0146,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 3,
+    "toNode": 4,
+    "Resistance": 0,
+    "Reactance": 0.005,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 3,
+    "toNode": 7,
+    "Resistance": 0,
+    "Reactance": 0.003,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 3,
+    "toNode": 19,
+    "Resistance": 0.008,
+    "Reactance": 0.069,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 3,
+    "toNode": 150,
+    "Resistance": 0.001,
+    "Reactance": 0.007,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7003,
+    "toNode": 3,
+    "Resistance": 0,
+    "Reactance": 0.01054,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 4,
+    "toNode": 16,
+    "Resistance": 0.002,
+    "Reactance": 0.019,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7,
+    "toNode": 5,
+    "Resistance": 0,
+    "Reactance": 0.039,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 5,
+    "toNode": 9,
+    "Resistance": 0.006,
+    "Reactance": 0.029,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7,
+    "toNode": 6,
+    "Resistance": 0,
+    "Reactance": 0.039,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7,
+    "toNode": 12,
+    "Resistance": 0.001,
+    "Reactance": 0.009,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7,
+    "toNode": 131,
+    "Resistance": 0.001,
+    "Reactance": 0.007,
+    "ContingencyMarked": 1,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 8,
+    "toNode": 11,
+    "Resistance": 0.013,
+    "Reactance": 0.0595,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 8,
+    "toNode": 14,
+    "Resistance": 0.013,
+    "Reactance": 0.042,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9,
+    "toNode": 11,
+    "Resistance": 0.006,
+    "Reactance": 0.027,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 10,
+    "toNode": 11,
+    "Resistance": 0,
+    "Reactance": 0.089,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 12,
+    "toNode": 10,
+    "Resistance": 0,
+    "Reactance": 0.053,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 11,
+    "toNode": 13,
+    "Resistance": 0.008,
+    "Reactance": 0.034,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7011,
+    "toNode": 11,
+    "Resistance": 0,
+    "Reactance": 0.01923,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 12,
+    "toNode": 21,
+    "Resistance": 0.002,
+    "Reactance": 0.015,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7012,
+    "toNode": 12,
+    "Resistance": 0,
+    "Reactance": 0.0312,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 13,
+    "toNode": 20,
+    "Resistance": 0.006,
+    "Reactance": 0.034,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 14,
+    "toNode": 15,
+    "Resistance": 0.014,
+    "Reactance": 0.042,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 16,
+    "toNode": 15,
+    "Resistance": 0.001,
+    "Reactance": 0.038,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 15,
+    "toNode": 17,
+    "Resistance": 0.0194,
+    "Reactance": 0.0311,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 15,
+    "toNode": 37,
+    "Resistance": 0.065,
+    "Reactance": 0.248,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 15,
+    "toNode": 89,
+    "Resistance": 0.099,
+    "Reactance": 0.248,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 15,
+    "toNode": 90,
+    "Resistance": 0.096,
+    "Reactance": 0.363,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 16,
+    "toNode": 42,
+    "Resistance": 0.002,
+    "Reactance": 0.022,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7017,
+    "toNode": 17,
+    "Resistance": 0,
+    "Reactance": 0.01654,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 19,
+    "toNode": 21,
+    "Resistance": 0.002,
+    "Reactance": 0.018,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 19,
+    "toNode": 87,
+    "Resistance": 0.013,
+    "Reactance": 0.08,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 21,
+    "toNode": 20,
+    "Resistance": 0,
+    "Reactance": 0.014,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 20,
+    "toNode": 22,
+    "Resistance": 0.016,
+    "Reactance": 0.033,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 20,
+    "toNode": 27,
+    "Resistance": 0.069,
+    "Reactance": 0.186,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 21,
+    "toNode": 24,
+    "Resistance": 0.004,
+    "Reactance": 0.034,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 22,
+    "toNode": 23,
+    "Resistance": 0.052,
+    "Reactance": 0.111,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 24,
+    "toNode": 23,
+    "Resistance": 0,
+    "Reactance": 0.064,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 23,
+    "toNode": 25,
+    "Resistance": 0.019,
+    "Reactance": 0.039,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7023,
+    "toNode": 23,
+    "Resistance": 0,
+    "Reactance": 0.023,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 24,
+    "toNode": 319,
+    "Resistance": 0.007,
+    "Reactance": 0.068,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7024,
+    "toNode": 24,
+    "Resistance": 0,
+    "Reactance": 0.0289,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 25,
+    "toNode": 26,
+    "Resistance": 0.036,
+    "Reactance": 0.071,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 26,
+    "toNode": 27,
+    "Resistance": 0.045,
+    "Reactance": 0.12,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 26,
+    "toNode": 320,
+    "Resistance": 0.043,
+    "Reactance": 0.13,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 33,
+    "toNode": 34,
+    "Resistance": 0,
+    "Reactance": 0.063,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 33,
+    "toNode": 38,
+    "Resistance": 0.0025,
+    "Reactance": 0.012,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 33,
+    "toNode": 40,
+    "Resistance": 0.006,
+    "Reactance": 0.029,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 33,
+    "toNode": 41,
+    "Resistance": 0.007,
+    "Reactance": 0.043,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 34,
+    "toNode": 42,
+    "Resistance": 0.001,
+    "Reactance": 0.008,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 36,
+    "toNode": 35,
+    "Resistance": 0,
+    "Reactance": 0.047,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 35,
+    "toNode": 72,
+    "Resistance": 0.012,
+    "Reactance": 0.06,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 35,
+    "toNode": 76,
+    "Resistance": 0.006,
+    "Reactance": 0.014,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 35,
+    "toNode": 77,
+    "Resistance": 0.01,
+    "Reactance": 0.029,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 36,
+    "toNode": 88,
+    "Resistance": 0.004,
+    "Reactance": 0.027,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 37,
+    "toNode": 38,
+    "Resistance": 0.008,
+    "Reactance": 0.047,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 37,
+    "toNode": 40,
+    "Resistance": 0.022,
+    "Reactance": 0.064,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 37,
+    "toNode": 41,
+    "Resistance": 0.01,
+    "Reactance": 0.036,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 37,
+    "toNode": 49,
+    "Resistance": 0.017,
+    "Reactance": 0.081,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 37,
+    "toNode": 89,
+    "Resistance": 0.102,
+    "Reactance": 0.254,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 37,
+    "toNode": 90,
+    "Resistance": 0.047,
+    "Reactance": 0.127,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 37,
+    "toNode": 9001,
+    "Resistance": 0.00006,
+    "Reactance": 0.00046,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 38,
+    "toNode": 41,
+    "Resistance": 0.008,
+    "Reactance": 0.037,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 38,
+    "toNode": 43,
+    "Resistance": 0.032,
+    "Reactance": 0.087,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 39,
+    "toNode": 42,
+    "Resistance": 0.0006,
+    "Reactance": 0.0064,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7039,
+    "toNode": 39,
+    "Resistance": 0,
+    "Reactance": 0.03159,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 40,
+    "toNode": 48,
+    "Resistance": 0.026,
+    "Reactance": 0.154,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 41,
+    "toNode": 42,
+    "Resistance": 0,
+    "Reactance": 0.029,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 41,
+    "toNode": 49,
+    "Resistance": 0.065,
+    "Reactance": 0.191,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 41,
+    "toNode": 51,
+    "Resistance": 0.031,
+    "Reactance": 0.089,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 42,
+    "toNode": 46,
+    "Resistance": 0.002,
+    "Reactance": 0.014,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 43,
+    "toNode": 44,
+    "Resistance": 0.026,
+    "Reactance": 0.072,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 43,
+    "toNode": 48,
+    "Resistance": 0.095,
+    "Reactance": 0.262,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 43,
+    "toNode": 53,
+    "Resistance": 0.013,
+    "Reactance": 0.039,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 45,
+    "toNode": 44,
+    "Resistance": 0,
+    "Reactance": 0.02,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 44,
+    "toNode": 47,
+    "Resistance": 0.027,
+    "Reactance": 0.084,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 44,
+    "toNode": 54,
+    "Resistance": 0.028,
+    "Reactance": 0.084,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7044,
+    "toNode": 44,
+    "Resistance": 0,
+    "Reactance": 0.18181,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 45,
+    "toNode": 46,
+    "Resistance": 0,
+    "Reactance": 0.021,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 45,
+    "toNode": 60,
+    "Resistance": 0.007,
+    "Reactance": 0.041,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 45,
+    "toNode": 74,
+    "Resistance": 0.009,
+    "Reactance": 0.054,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 46,
+    "toNode": 81,
+    "Resistance": 0.005,
+    "Reactance": 0.042,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 47,
+    "toNode": 73,
+    "Resistance": 0.052,
+    "Reactance": 0.145,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 47,
+    "toNode": 113,
+    "Resistance": 0.043,
+    "Reactance": 0.118,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 48,
+    "toNode": 107,
+    "Resistance": 0.025,
+    "Reactance": 0.062,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 49,
+    "toNode": 51,
+    "Resistance": 0.031,
+    "Reactance": 0.094,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7049,
+    "toNode": 49,
+    "Resistance": 0,
+    "Reactance": 0.0124,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 51,
+    "toNode": 52,
+    "Resistance": 0.037,
+    "Reactance": 0.109,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 52,
+    "toNode": 55,
+    "Resistance": 0.027,
+    "Reactance": 0.08,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 53,
+    "toNode": 54,
+    "Resistance": 0.025,
+    "Reactance": 0.073,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 54,
+    "toNode": 55,
+    "Resistance": 0.035,
+    "Reactance": 0.103,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 55,
+    "toNode": 57,
+    "Resistance": 0.065,
+    "Reactance": 0.169,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7055,
+    "toNode": 55,
+    "Resistance": 0,
+    "Reactance": 0.19607,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 57,
+    "toNode": 58,
+    "Resistance": 0.046,
+    "Reactance": 0.08,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 57,
+    "toNode": 63,
+    "Resistance": 0.159,
+    "Reactance": 0.537,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7057,
+    "toNode": 57,
+    "Resistance": 0,
+    "Reactance": 0.05347,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 58,
+    "toNode": 59,
+    "Resistance": 0.009,
+    "Reactance": 0.026,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 59,
+    "toNode": 61,
+    "Resistance": 0.002,
+    "Reactance": 0.013,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 60,
+    "toNode": 62,
+    "Resistance": 0.009,
+    "Reactance": 0.065,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 62,
+    "toNode": 61,
+    "Resistance": 0,
+    "Reactance": 0.059,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7061,
+    "toNode": 61,
+    "Resistance": 0,
+    "Reactance": 0.0238,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 62,
+    "toNode": 64,
+    "Resistance": 0.016,
+    "Reactance": 0.105,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 62,
+    "toNode": 144,
+    "Resistance": 0.001,
+    "Reactance": 0.007,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7062,
+    "toNode": 62,
+    "Resistance": 0,
+    "Reactance": 0.03214,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 63,
+    "toNode": 64,
+    "Resistance": 0,
+    "Reactance": 0.038,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 63,
+    "toNode": 526,
+    "Resistance": 0.0265,
+    "Reactance": 0.172,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 69,
+    "toNode": 79,
+    "Resistance": 0.051,
+    "Reactance": 0.157,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 201,
+    "toNode": 69,
+    "Resistance": 0,
+    "Reactance": 0.098,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 69,
+    "toNode": 211,
+    "Resistance": 0.051,
+    "Reactance": 0.232,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 70,
+    "toNode": 71,
+    "Resistance": 0.032,
+    "Reactance": 0.1,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 70,
+    "toNode": 528,
+    "Resistance": 0.02,
+    "Reactance": 0.1234,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 71,
+    "toNode": 72,
+    "Resistance": 0.036,
+    "Reactance": 0.131,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 71,
+    "toNode": 73,
+    "Resistance": 0.034,
+    "Reactance": 0.099,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7071,
+    "toNode": 71,
+    "Resistance": 0,
+    "Reactance": 0.06896,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 72,
+    "toNode": 77,
+    "Resistance": 0.018,
+    "Reactance": 0.087,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 72,
+    "toNode": 531,
+    "Resistance": 0.0256,
+    "Reactance": 0.193,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 73,
+    "toNode": 74,
+    "Resistance": 0,
+    "Reactance": 0.0244,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 73,
+    "toNode": 76,
+    "Resistance": 0.021,
+    "Reactance": 0.057,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 73,
+    "toNode": 79,
+    "Resistance": 0.018,
+    "Reactance": 0.052,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 74,
+    "toNode": 88,
+    "Resistance": 0.004,
+    "Reactance": 0.027,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 74,
+    "toNode": 562,
+    "Resistance": 0.0286,
+    "Reactance": 0.2013,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 76,
+    "toNode": 77,
+    "Resistance": 0.016,
+    "Reactance": 0.043,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 77,
+    "toNode": 78,
+    "Resistance": 0.001,
+    "Reactance": 0.006,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 77,
+    "toNode": 80,
+    "Resistance": 0.014,
+    "Reactance": 0.07,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 77,
+    "toNode": 552,
+    "Resistance": 0.0891,
+    "Reactance": 0.2676,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 77,
+    "toNode": 609,
+    "Resistance": 0.0782,
+    "Reactance": 0.2127,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 78,
+    "toNode": 79,
+    "Resistance": 0.006,
+    "Reactance": 0.022,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 78,
+    "toNode": 84,
+    "Resistance": 0,
+    "Reactance": 0.036,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 79,
+    "toNode": 211,
+    "Resistance": 0.099,
+    "Reactance": 0.375,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 80,
+    "toNode": 211,
+    "Resistance": 0.022,
+    "Reactance": 0.107,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 81,
+    "toNode": 88,
+    "Resistance": 0,
+    "Reactance": 0.02,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 81,
+    "toNode": 194,
+    "Resistance": 0.0035,
+    "Reactance": 0.033,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 81,
+    "toNode": 195,
+    "Resistance": 0.0035,
+    "Reactance": 0.033,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 85,
+    "toNode": 86,
+    "Resistance": 0.008,
+    "Reactance": 0.064,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 85,
+    "toNode": 99,
+    "Resistance": 0,
+    "Reactance": 0.048,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 86,
+    "toNode": 87,
+    "Resistance": 0.012,
+    "Reactance": 0.093,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 86,
+    "toNode": 102,
+    "Resistance": 0,
+    "Reactance": 0.048,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 86,
+    "toNode": 323,
+    "Resistance": 0.006,
+    "Reactance": 0.048,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 87,
+    "toNode": 94,
+    "Resistance": 0,
+    "Reactance": 0.046,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 89,
+    "toNode": 91,
+    "Resistance": 0.047,
+    "Reactance": 0.119,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 90,
+    "toNode": 92,
+    "Resistance": 0.032,
+    "Reactance": 0.174,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 91,
+    "toNode": 94,
+    "Resistance": 0.1,
+    "Reactance": 0.253,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 91,
+    "toNode": 97,
+    "Resistance": 0.022,
+    "Reactance": 0.077,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 92,
+    "toNode": 103,
+    "Resistance": 0.019,
+    "Reactance": 0.144,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 92,
+    "toNode": 105,
+    "Resistance": 0.017,
+    "Reactance": 0.092,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 94,
+    "toNode": 97,
+    "Resistance": 0.278,
+    "Reactance": 0.427,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 97,
+    "toNode": 100,
+    "Resistance": 0.022,
+    "Reactance": 0.053,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 97,
+    "toNode": 102,
+    "Resistance": 0.038,
+    "Reactance": 0.092,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 97,
+    "toNode": 103,
+    "Resistance": 0.048,
+    "Reactance": 0.122,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 98,
+    "toNode": 100,
+    "Resistance": 0.024,
+    "Reactance": 0.064,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 98,
+    "toNode": 102,
+    "Resistance": 0.034,
+    "Reactance": 0.121,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 99,
+    "toNode": 107,
+    "Resistance": 0.053,
+    "Reactance": 0.135,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 99,
+    "toNode": 108,
+    "Resistance": 0.002,
+    "Reactance": 0.004,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 99,
+    "toNode": 109,
+    "Resistance": 0.045,
+    "Reactance": 0.354,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 99,
+    "toNode": 110,
+    "Resistance": 0.05,
+    "Reactance": 0.174,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 100,
+    "toNode": 102,
+    "Resistance": 0.016,
+    "Reactance": 0.038,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 102,
+    "toNode": 104,
+    "Resistance": 0.043,
+    "Reactance": 0.064,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 103,
+    "toNode": 105,
+    "Resistance": 0.019,
+    "Reactance": 0.062,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 104,
+    "toNode": 108,
+    "Resistance": 0.076,
+    "Reactance": 0.13,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 104,
+    "toNode": 322,
+    "Resistance": 0.044,
+    "Reactance": 0.124,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 105,
+    "toNode": 107,
+    "Resistance": 0.012,
+    "Reactance": 0.088,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 105,
+    "toNode": 110,
+    "Resistance": 0.157,
+    "Reactance": 0.4,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 108,
+    "toNode": 324,
+    "Resistance": 0.074,
+    "Reactance": 0.208,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 109,
+    "toNode": 110,
+    "Resistance": 0.07,
+    "Reactance": 0.184,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 109,
+    "toNode": 113,
+    "Resistance": 0.1,
+    "Reactance": 0.274,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 109,
+    "toNode": 114,
+    "Resistance": 0.109,
+    "Reactance": 0.393,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 110,
+    "toNode": 112,
+    "Resistance": 0.142,
+    "Reactance": 0.404,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 112,
+    "toNode": 114,
+    "Resistance": 0.017,
+    "Reactance": 0.042,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 114,
+    "toNode": 207,
+    "Resistance": 0,
+    "Reactance": 0.149,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 121,
+    "toNode": 115,
+    "Resistance": 0,
+    "Reactance": 0.028,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 115,
+    "toNode": 122,
+    "Resistance": 0.0036,
+    "Reactance": 0.0199,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 116,
+    "toNode": 120,
+    "Resistance": 0.002,
+    "Reactance": 0.1049,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 116,
+    "toNode": 124,
+    "Resistance": 0.0052,
+    "Reactance": 0.0174,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 117,
+    "toNode": 118,
+    "Resistance": 0.0001,
+    "Reactance": 0.0018,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 159,
+    "toNode": 117,
+    "Resistance": 0,
+    "Reactance": 0.016,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 118,
+    "toNode": 119,
+    "Resistance": 0,
+    "Reactance": 0.0271,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 118,
+    "toNode": 121,
+    "Resistance": 0.0022,
+    "Reactance": 0.2915,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 118,
+    "toNode": 1201,
+    "Resistance": 0,
+    "Reactance": 0.6163,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 119,
+    "toNode": 120,
+    "Resistance": 0,
+    "Reactance": 0.0339,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 119,
+    "toNode": 121,
+    "Resistance": 0,
+    "Reactance": 0.0582,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 119,
+    "toNode": 1190,
+    "Resistance": 0.001,
+    "Reactance": 0.023,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 120,
+    "toNode": 1200,
+    "Resistance": 0,
+    "Reactance": 0.023,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 1201,
+    "toNode": 120,
+    "Resistance": 0,
+    "Reactance": 0.3697,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 122,
+    "toNode": 123,
+    "Resistance": 0.0808,
+    "Reactance": 0.2344,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 122,
+    "toNode": 125,
+    "Resistance": 0.0965,
+    "Reactance": 0.3669,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 122,
+    "toNode": 157,
+    "Resistance": 0.0005,
+    "Reactance": 0.0195,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 123,
+    "toNode": 124,
+    "Resistance": 0.036,
+    "Reactance": 0.1076,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 123,
+    "toNode": 125,
+    "Resistance": 0.0476,
+    "Reactance": 0.1414,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 160,
+    "toNode": 124,
+    "Resistance": 0.0012,
+    "Reactance": 0.0396,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 125,
+    "toNode": 126,
+    "Resistance": 0.0006,
+    "Reactance": 0.0197,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 126,
+    "toNode": 127,
+    "Resistance": 0.0059,
+    "Reactance": 0.0405,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 126,
+    "toNode": 129,
+    "Resistance": 0.0115,
+    "Reactance": 0.1106,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 126,
+    "toNode": 132,
+    "Resistance": 0.0198,
+    "Reactance": 0.1688,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 126,
+    "toNode": 157,
+    "Resistance": 0.005,
+    "Reactance": 0.05,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 126,
+    "toNode": 158,
+    "Resistance": 0.0077,
+    "Reactance": 0.0538,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 126,
+    "toNode": 169,
+    "Resistance": 0.0165,
+    "Reactance": 0.1157,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 127,
+    "toNode": 128,
+    "Resistance": 0.0059,
+    "Reactance": 0.0577,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 127,
+    "toNode": 134,
+    "Resistance": 0.0049,
+    "Reactance": 0.0336,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 127,
+    "toNode": 168,
+    "Resistance": 0.0059,
+    "Reactance": 0.0577,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 128,
+    "toNode": 130,
+    "Resistance": 0.0078,
+    "Reactance": 0.0773,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 128,
+    "toNode": 133,
+    "Resistance": 0.0026,
+    "Reactance": 0.0193,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 129,
+    "toNode": 130,
+    "Resistance": 0.0076,
+    "Reactance": 0.0752,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 129,
+    "toNode": 133,
+    "Resistance": 0.0021,
+    "Reactance": 0.0186,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 130,
+    "toNode": 131,
+    "Resistance": 0,
+    "Reactance": 0.018,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 130,
+    "toNode": 132,
+    "Resistance": 0.0016,
+    "Reactance": 0.0164,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 130,
+    "toNode": 150,
+    "Resistance": 0,
+    "Reactance": 0.014,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 130,
+    "toNode": 151,
+    "Resistance": 0.0017,
+    "Reactance": 0.0165,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 130,
+    "toNode": 167,
+    "Resistance": 0.0079,
+    "Reactance": 0.0793,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 130,
+    "toNode": 168,
+    "Resistance": 0.0078,
+    "Reactance": 0.0784,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7130,
+    "toNode": 130,
+    "Resistance": 0,
+    "Reactance": 0.0193,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 132,
+    "toNode": 170,
+    "Resistance": 0.001,
+    "Reactance": 0.0402,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 133,
+    "toNode": 137,
+    "Resistance": 0.0017,
+    "Reactance": 0.0117,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 133,
+    "toNode": 168,
+    "Resistance": 0.0026,
+    "Reactance": 0.0193,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 133,
+    "toNode": 169,
+    "Resistance": 0.0021,
+    "Reactance": 0.0186,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 133,
+    "toNode": 171,
+    "Resistance": 0.0002,
+    "Reactance": 0.0101,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 134,
+    "toNode": 135,
+    "Resistance": 0.0043,
+    "Reactance": 0.0293,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 134,
+    "toNode": 184,
+    "Resistance": 0.0039,
+    "Reactance": 0.0381,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 135,
+    "toNode": 136,
+    "Resistance": 0.0091,
+    "Reactance": 0.0623,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 136,
+    "toNode": 137,
+    "Resistance": 0.0125,
+    "Reactance": 0.089,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 136,
+    "toNode": 152,
+    "Resistance": 0.0056,
+    "Reactance": 0.039,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 137,
+    "toNode": 140,
+    "Resistance": 0.0015,
+    "Reactance": 0.0114,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 163,
+    "toNode": 137,
+    "Resistance": 0.0013,
+    "Reactance": 0.0384,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 137,
+    "toNode": 181,
+    "Resistance": 0.0005,
+    "Reactance": 0.0034,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 137,
+    "toNode": 186,
+    "Resistance": 0.0007,
+    "Reactance": 0.0151,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 137,
+    "toNode": 188,
+    "Resistance": 0.0005,
+    "Reactance": 0.0034,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 181,
+    "toNode": 138,
+    "Resistance": 0.0004,
+    "Reactance": 0.0202,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 188,
+    "toNode": 138,
+    "Resistance": 0.0004,
+    "Reactance": 0.0202,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 139,
+    "toNode": 172,
+    "Resistance": 0.0562,
+    "Reactance": 0.2248,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 182,
+    "toNode": 139,
+    "Resistance": 0.0003,
+    "Reactance": 0.0131,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7139,
+    "toNode": 139,
+    "Resistance": 0,
+    "Reactance": 0.0167,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 140,
+    "toNode": 141,
+    "Resistance": 0.012,
+    "Reactance": 0.0836,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 140,
+    "toNode": 142,
+    "Resistance": 0.0152,
+    "Reactance": 0.1132,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 140,
+    "toNode": 145,
+    "Resistance": 0.0468,
+    "Reactance": 0.3369,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 140,
+    "toNode": 146,
+    "Resistance": 0.043,
+    "Reactance": 0.3031,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 140,
+    "toNode": 147,
+    "Resistance": 0.0489,
+    "Reactance": 0.3492,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 140,
+    "toNode": 182,
+    "Resistance": 0.0013,
+    "Reactance": 0.0089,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 141,
+    "toNode": 146,
+    "Resistance": 0.0291,
+    "Reactance": 0.2267,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 141,
+    "toNode": 174,
+    "Resistance": 0.0024,
+    "Reactance": 0.0603,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 142,
+    "toNode": 143,
+    "Resistance": 0.006,
+    "Reactance": 0.057,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 142,
+    "toNode": 175,
+    "Resistance": 0.0024,
+    "Reactance": 0.0498,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 143,
+    "toNode": 144,
+    "Resistance": 0,
+    "Reactance": 0.0833,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 143,
+    "toNode": 145,
+    "Resistance": 0.0075,
+    "Reactance": 0.0773,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 143,
+    "toNode": 148,
+    "Resistance": 0.0013,
+    "Reactance": 0.0371,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 143,
+    "toNode": 149,
+    "Resistance": 0.0127,
+    "Reactance": 0.0909,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 145,
+    "toNode": 146,
+    "Resistance": 0.0085,
+    "Reactance": 0.0588,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 145,
+    "toNode": 149,
+    "Resistance": 0.0218,
+    "Reactance": 0.1511,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 145,
+    "toNode": 180,
+    "Resistance": 0.0005,
+    "Reactance": 0.0182,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 146,
+    "toNode": 147,
+    "Resistance": 0.0073,
+    "Reactance": 0.0504,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 148,
+    "toNode": 178,
+    "Resistance": 0.0523,
+    "Reactance": 0.1526,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 148,
+    "toNode": 179,
+    "Resistance": 0.1371,
+    "Reactance": 0.3919,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 151,
+    "toNode": 170,
+    "Resistance": 0.001,
+    "Reactance": 0.0392,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 152,
+    "toNode": 153,
+    "Resistance": 0.0137,
+    "Reactance": 0.0957,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 153,
+    "toNode": 161,
+    "Resistance": 0.0055,
+    "Reactance": 0.0288,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 153,
+    "toNode": 183,
+    "Resistance": 0.0027,
+    "Reactance": 0.0639,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 154,
+    "toNode": 156,
+    "Resistance": 0.1746,
+    "Reactance": 0.3161,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 154,
+    "toNode": 183,
+    "Resistance": 0.0804,
+    "Reactance": 0.3054,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 155,
+    "toNode": 156,
+    "Resistance": 0.0008,
+    "Reactance": 0.0256,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 155,
+    "toNode": 161,
+    "Resistance": 0.011,
+    "Reactance": 0.0568,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 164,
+    "toNode": 155,
+    "Resistance": 0.0009,
+    "Reactance": 0.0231,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 157,
+    "toNode": 159,
+    "Resistance": 0.0008,
+    "Reactance": 0.0098,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 158,
+    "toNode": 159,
+    "Resistance": 0.0029,
+    "Reactance": 0.0285,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 158,
+    "toNode": 160,
+    "Resistance": 0.0066,
+    "Reactance": 0.0448,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 162,
+    "toNode": 164,
+    "Resistance": 0.0024,
+    "Reactance": 0.0326,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 162,
+    "toNode": 165,
+    "Resistance": 0.0018,
+    "Reactance": 0.0245,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 163,
+    "toNode": 164,
+    "Resistance": 0.0044,
+    "Reactance": 0.0514,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 165,
+    "toNode": 166,
+    "Resistance": 0.0002,
+    "Reactance": 0.0123,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 7166,
+    "toNode": 166,
+    "Resistance": 0,
+    "Reactance": 0.0154,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 167,
+    "toNode": 169,
+    "Resistance": 0.0018,
+    "Reactance": 0.0178,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 172,
+    "toNode": 173,
+    "Resistance": 0.0669,
+    "Reactance": 0.4843,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 172,
+    "toNode": 174,
+    "Resistance": 0.0558,
+    "Reactance": 0.221,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 173,
+    "toNode": 174,
+    "Resistance": 0.0807,
+    "Reactance": 0.3331,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 173,
+    "toNode": 175,
+    "Resistance": 0.0739,
+    "Reactance": 0.3071,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 173,
+    "toNode": 176,
+    "Resistance": 0.1799,
+    "Reactance": 0.5017,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 175,
+    "toNode": 176,
+    "Resistance": 0.0904,
+    "Reactance": 0.3626,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 175,
+    "toNode": 179,
+    "Resistance": 0.077,
+    "Reactance": 0.3092,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 176,
+    "toNode": 177,
+    "Resistance": 0.0251,
+    "Reactance": 0.0829,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 177,
+    "toNode": 178,
+    "Resistance": 0.0222,
+    "Reactance": 0.0847,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 178,
+    "toNode": 179,
+    "Resistance": 0.0498,
+    "Reactance": 0.1855,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 178,
+    "toNode": 180,
+    "Resistance": 0.0061,
+    "Reactance": 0.029,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 181,
+    "toNode": 187,
+    "Resistance": 0.0004,
+    "Reactance": 0.0083,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 184,
+    "toNode": 185,
+    "Resistance": 0.0025,
+    "Reactance": 0.0245,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 186,
+    "toNode": 188,
+    "Resistance": 0.0007,
+    "Reactance": 0.0086,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 187,
+    "toNode": 188,
+    "Resistance": 0.0007,
+    "Reactance": 0.0086,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 189,
+    "toNode": 208,
+    "Resistance": 0.033,
+    "Reactance": 0.095,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 189,
+    "toNode": 209,
+    "Resistance": 0.046,
+    "Reactance": 0.069,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 189,
+    "toNode": 210,
+    "Resistance": 0,
+    "Reactance": 0.252,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 229,
+    "toNode": 190,
+    "Resistance": 0,
+    "Reactance": 0.0626,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 190,
+    "toNode": 231,
+    "Resistance": 0.0004,
+    "Reactance": 0.0022,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 190,
+    "toNode": 240,
+    "Resistance": 0,
+    "Reactance": 0.0275,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 191,
+    "toNode": 192,
+    "Resistance": 0.003,
+    "Reactance": 0.048,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 225,
+    "toNode": 191,
+    "Resistance": 0.001,
+    "Reactance": 0.061,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 192,
+    "toNode": 225,
+    "Resistance": 0.002,
+    "Reactance": 0.009,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 193,
+    "toNode": 196,
+    "Resistance": 0,
+    "Reactance": 0.237,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 193,
+    "toNode": 205,
+    "Resistance": 0.045,
+    "Reactance": 0.063,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 193,
+    "toNode": 208,
+    "Resistance": 0.048,
+    "Reactance": 0.127,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 194,
+    "toNode": 219,
+    "Resistance": 0.0031,
+    "Reactance": 0.0286,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 194,
+    "toNode": 664,
+    "Resistance": 0.0024,
+    "Reactance": 0.0355,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 195,
+    "toNode": 212,
+    "Resistance": 0.0008,
+    "Reactance": 0.0366,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 195,
+    "toNode": 219,
+    "Resistance": 0.0031,
+    "Reactance": 0.0286,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 196,
+    "toNode": 197,
+    "Resistance": 0.014,
+    "Reactance": 0.04,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 196,
+    "toNode": 210,
+    "Resistance": 0.03,
+    "Reactance": 0.081,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 196,
+    "toNode": 2040,
+    "Resistance": 0.0001,
+    "Reactance": 0.02,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 197,
+    "toNode": 198,
+    "Resistance": 0.01,
+    "Reactance": 0.06,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 197,
+    "toNode": 211,
+    "Resistance": 0.015,
+    "Reactance": 0.04,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 198,
+    "toNode": 202,
+    "Resistance": 0.332,
+    "Reactance": 0.688,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 198,
+    "toNode": 203,
+    "Resistance": 0.009,
+    "Reactance": 0.046,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 209,
+    "toNode": 198,
+    "Resistance": 0.026,
+    "Reactance": 0.211,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 198,
+    "toNode": 210,
+    "Resistance": 0.02,
+    "Reactance": 0.073,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 198,
+    "toNode": 211,
+    "Resistance": 0.034,
+    "Reactance": 0.109,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 199,
+    "toNode": 200,
+    "Resistance": 0.076,
+    "Reactance": 0.135,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 199,
+    "toNode": 210,
+    "Resistance": 0.04,
+    "Reactance": 0.102,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 200,
+    "toNode": 210,
+    "Resistance": 0.081,
+    "Reactance": 0.128,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 200,
+    "toNode": 248,
+    "Resistance": 0,
+    "Reactance": 0.22,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 201,
+    "toNode": 204,
+    "Resistance": 0.124,
+    "Reactance": 0.183,
+    "ContingencyMarked": 1,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 202,
+    "toNode": 211,
+    "Resistance": 0,
+    "Reactance": 0.128,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 203,
+    "toNode": 211,
+    "Resistance": 0.01,
+    "Reactance": 0.059,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 204,
+    "toNode": 205,
+    "Resistance": 0.046,
+    "Reactance": 0.068,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 204,
+    "toNode": 2040,
+    "Resistance": 0.02,
+    "Reactance": 0.204,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 205,
+    "toNode": 206,
+    "Resistance": 0.302,
+    "Reactance": 0.446,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 206,
+    "toNode": 207,
+    "Resistance": 0.073,
+    "Reactance": 0.093,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 206,
+    "toNode": 208,
+    "Resistance": 0.24,
+    "Reactance": 0.421,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 211,
+    "toNode": 212,
+    "Resistance": 0.003,
+    "Reactance": 0.0122,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 212,
+    "toNode": 215,
+    "Resistance": 0.0139,
+    "Reactance": 0.0778,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 213,
+    "toNode": 214,
+    "Resistance": 0.0025,
+    "Reactance": 0.038,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 214,
+    "toNode": 215,
+    "Resistance": 0.0017,
+    "Reactance": 0.0185,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 214,
+    "toNode": 242,
+    "Resistance": 0.0015,
+    "Reactance": 0.0108,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 215,
+    "toNode": 216,
+    "Resistance": 0.0045,
+    "Reactance": 0.0249,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 216,
+    "toNode": 217,
+    "Resistance": 0.004,
+    "Reactance": 0.0497,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 217,
+    "toNode": 218,
+    "Resistance": 0,
+    "Reactance": 0.0456,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 217,
+    "toNode": 219,
+    "Resistance": 0.0005,
+    "Reactance": 0.0177,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 217,
+    "toNode": 220,
+    "Resistance": 0.0027,
+    "Reactance": 0.0395,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 218,
+    "toNode": 219,
+    "Resistance": 0.001,
+    "Reactance": 0.0354,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 220,
+    "toNode": 218,
+    "Resistance": 0.0037,
+    "Reactance": 0.0484,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 219,
+    "toNode": 237,
+    "Resistance": 0.0003,
+    "Reactance": 0.0018,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 220,
+    "toNode": 221,
+    "Resistance": 0.001,
+    "Reactance": 0.0295,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 220,
+    "toNode": 238,
+    "Resistance": 0.0016,
+    "Reactance": 0.0046,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 221,
+    "toNode": 223,
+    "Resistance": 0.0003,
+    "Reactance": 0.0013,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 222,
+    "toNode": 237,
+    "Resistance": 0.0014,
+    "Reactance": 0.0514,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 223,
+    "toNode": 224,
+    "Resistance": 0.0012,
+    "Reactance": 0.0195,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 224,
+    "toNode": 225,
+    "Resistance": 0.01,
+    "Reactance": 0.064,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 224,
+    "toNode": 226,
+    "Resistance": 0.0019,
+    "Reactance": 0.0081,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 226,
+    "toNode": 231,
+    "Resistance": 0.0005,
+    "Reactance": 0.0212,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 227,
+    "toNode": 231,
+    "Resistance": 0.0009,
+    "Reactance": 0.0472,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 228,
+    "toNode": 229,
+    "Resistance": 0.0019,
+    "Reactance": 0.0087,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 228,
+    "toNode": 231,
+    "Resistance": 0.0026,
+    "Reactance": 0.0917,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 228,
+    "toNode": 234,
+    "Resistance": 0.0013,
+    "Reactance": 0.0288,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 229,
+    "toNode": 230,
+    "Resistance": 0.001,
+    "Reactance": 0.0332,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 231,
+    "toNode": 232,
+    "Resistance": 0.0002,
+    "Reactance": 0.0069,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 231,
+    "toNode": 237,
+    "Resistance": 0.0001,
+    "Reactance": 0.0006,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 232,
+    "toNode": 233,
+    "Resistance": 0.0017,
+    "Reactance": 0.0485,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 234,
+    "toNode": 235,
+    "Resistance": 0.0002,
+    "Reactance": 0.0259,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 234,
+    "toNode": 236,
+    "Resistance": 0.0005,
+    "Reactance": 0.016,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 234,
+    "toNode": 237,
+    "Resistance": 0.0006,
+    "Reactance": 0.0272,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 235,
+    "toNode": 238,
+    "Resistance": 0.0002,
+    "Reactance": 0.0006,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 241,
+    "toNode": 237,
+    "Resistance": 0.0005,
+    "Reactance": 0.0154,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 238,
+    "toNode": 239,
+    "Resistance": 0.0005,
+    "Reactance": 0.016,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 240,
+    "toNode": 281,
+    "Resistance": 0.0003,
+    "Reactance": 0.0043,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 242,
+    "toNode": 245,
+    "Resistance": 0.0082,
+    "Reactance": 0.0851,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 242,
+    "toNode": 247,
+    "Resistance": 0.0112,
+    "Reactance": 0.0723,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 243,
+    "toNode": 244,
+    "Resistance": 0.0127,
+    "Reactance": 0.0355,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 243,
+    "toNode": 245,
+    "Resistance": 0.0326,
+    "Reactance": 0.1804,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 244,
+    "toNode": 246,
+    "Resistance": 0.0195,
+    "Reactance": 0.0551,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 245,
+    "toNode": 246,
+    "Resistance": 0.0157,
+    "Reactance": 0.0732,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 245,
+    "toNode": 247,
+    "Resistance": 0.036,
+    "Reactance": 0.2119,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 246,
+    "toNode": 247,
+    "Resistance": 0.0268,
+    "Reactance": 0.1285,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 247,
+    "toNode": 248,
+    "Resistance": 0.0428,
+    "Reactance": 0.1215,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 248,
+    "toNode": 249,
+    "Resistance": 0.0351,
+    "Reactance": 0.1004,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 249,
+    "toNode": 250,
+    "Resistance": 0.0616,
+    "Reactance": 0.1857,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9001,
+    "toNode": 9005,
+    "Resistance": 0.0008,
+    "Reactance": 0.00348,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9001,
+    "toNode": 9006,
+    "Resistance": 0.02439,
+    "Reactance": 0.43682,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9001,
+    "toNode": 9012,
+    "Resistance": 0.03624,
+    "Reactance": 0.64898,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9012,
+    "toNode": 9002,
+    "Resistance": 0.07622,
+    "Reactance": 0.43286,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9012,
+    "toNode": 9002,
+    "Resistance": 0.07622,
+    "Reactance": 0.43286,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9002,
+    "toNode": 9021,
+    "Resistance": 0.0537,
+    "Reactance": 0.07026,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9002,
+    "toNode": 9024,
+    "Resistance": 0.50748,
+    "Reactance": 3.2202,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9006,
+    "toNode": 9003,
+    "Resistance": 0.11118,
+    "Reactance": 0.49332,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9006,
+    "toNode": 9003,
+    "Resistance": 0.11118,
+    "Reactance": 0.49332,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9007,
+    "toNode": 9003,
+    "Resistance": 0.0558,
+    "Reactance": 0.24666,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9003,
+    "toNode": 9031,
+    "Resistance": 0.73633,
+    "Reactance": 4.6724,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9003,
+    "toNode": 9032,
+    "Resistance": 0.76978,
+    "Reactance": 4.8846,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9003,
+    "toNode": 9033,
+    "Resistance": 0.75732,
+    "Reactance": 4.8056,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9003,
+    "toNode": 9034,
+    "Resistance": 0.13006,
+    "Reactance": 1.3912,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9003,
+    "toNode": 9035,
+    "Resistance": 0.54484,
+    "Reactance": 3.4572,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9003,
+    "toNode": 9036,
+    "Resistance": 0.15426,
+    "Reactance": 1.6729,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9003,
+    "toNode": 9037,
+    "Resistance": 0.3849,
+    "Reactance": 2.5712,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9003,
+    "toNode": 9038,
+    "Resistance": 0.4412,
+    "Reactance": 2.9668,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9003,
+    "toNode": 9044,
+    "Resistance": 0.07378,
+    "Reactance": 0.06352,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9004,
+    "toNode": 9041,
+    "Resistance": 0.36614,
+    "Reactance": 2.456,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9004,
+    "toNode": 9042,
+    "Resistance": 1.0593,
+    "Reactance": 5.4536,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9004,
+    "toNode": 9043,
+    "Resistance": 0.1567,
+    "Reactance": 1.6994,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9044,
+    "toNode": 9004,
+    "Resistance": 0.03832,
+    "Reactance": 0.02894,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9005,
+    "toNode": 9051,
+    "Resistance": 0.01578,
+    "Reactance": 0.37486,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9005,
+    "toNode": 9052,
+    "Resistance": 0.01578,
+    "Reactance": 0.37486,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9005,
+    "toNode": 9053,
+    "Resistance": 0.01602,
+    "Reactance": 0.38046,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9005,
+    "toNode": 9054,
+    "Resistance": 0,
+    "Reactance": 0.152,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9005,
+    "toNode": 9055,
+    "Resistance": 0,
+    "Reactance": 0.8,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9006,
+    "toNode": 9007,
+    "Resistance": 0.05558,
+    "Reactance": 0.24666,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9007,
+    "toNode": 9071,
+    "Resistance": 0.4412,
+    "Reactance": 2.9668,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9007,
+    "toNode": 9072,
+    "Resistance": 0.30792,
+    "Reactance": 2.057,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9012,
+    "toNode": 9121,
+    "Resistance": 0.23552,
+    "Reactance": 0.99036,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9021,
+    "toNode": 9022,
+    "Resistance": 0.44364,
+    "Reactance": 2.8152,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9021,
+    "toNode": 9023,
+    "Resistance": 1.1068,
+    "Reactance": 0.95278,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9023,
+    "toNode": 9025,
+    "Resistance": 0.66688,
+    "Reactance": 3.944,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9023,
+    "toNode": 9026,
+    "Resistance": 0.6113,
+    "Reactance": 3.6152,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  },
+  {
+    "fromNode": 9053,
+    "toNode": 9533,
+    "Resistance": 0,
+    "Reactance": 0.75,
+    "ContingencyMarked": 0,
+    "Capacity": 100000
+  }
+]

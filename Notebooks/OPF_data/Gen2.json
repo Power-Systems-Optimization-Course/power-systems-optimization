@@ -1,0 +1,24 @@
+[
+  {
+    "connNode": 1,
+    "c2": 0,
+    "c1": 10,
+    "c0": 0,
+    "PgMax": 10000,
+    "PgMin": 0,
+    "RgMax": 5,
+    "RgMin": -5,
+    "PgPrev": 545
+  },
+  {
+    "connNode": 2,
+    "c2": 0,
+    "c1": 20,
+    "c0": 0,
+    "PgMax": 10000,
+    "PgMin": 0,
+    "RgMax": 5,
+    "RgMin": -5,
+    "PgPrev": 45
+  }
+]
