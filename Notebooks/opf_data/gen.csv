@@ -1,0 +1,3 @@
+bus,Pg,Qg,Qmax,Qmin,Vg,mBase,status,Pmax,Pmin,Pc1,Pc2,Qc1min,Qc1max,Qc2min,Qc2max,ramp_agc,ramp_10,ramp_30,ramp_q,apf
+1,40,0,30,-30,1,100,1,1000,0,0,0,0,0,0,0,0,0,0,0,0
+2,170,0,127.5,-127.5,1,100,1,1000,0,0,0,0,0,0,0,0,0,0,0,0
