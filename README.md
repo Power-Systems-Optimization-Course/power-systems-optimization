@@ -29,7 +29,7 @@ Finally, several datasets of realistic power systems are provided which students
 
 5. [Unit Commitment](Notebooks/05-Unit-Commitment.ipynb)
 
-6. DC Optimal Network Power Flow
+6. [DC Optimal Network Power Flow](Notebooks/06-Optimal-Power-Flow.ipynb)
 
 7. Advanced Capacity Expansion Planning
 
