@@ -25,7 +25,7 @@ Finally, several datasets of realistic power systems are provided which students
 
 3. [Basic Capacity Expansion Planning](Notebooks/03-Basic-Capacity-Expansion.ipynb)
 
-3. [Economic Dispatch](Notebooks/04-Economic-Dispatch.ipynb)
+4. [Economic Dispatch](Notebooks/04-Economic-Dispatch.ipynb)
 
 5. [Unit Commitment](Notebooks/05-Unit-Commitment.ipynb)
 
@@ -40,6 +40,8 @@ Finally, several datasets of realistic power systems are provided which students
 2. [Homework 2 - Basic Capacity Expansion](Homeworks/Homework-02.ipynb)
 
 3. [Homework 3 - Unit Commitment](Homeworks/Homework-03.ipynb)
+
+3. [Homework 4 - Optimal Power Flow](Homeworks/Homework-04.ipynb)
 
 ### License and copyright
 
