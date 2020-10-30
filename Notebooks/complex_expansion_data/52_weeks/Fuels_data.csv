@@ -1,0 +1,7 @@
+Fuel,Cost_per_MMBtu,CO2_content_tons_per_MMBtu,fuel_indices
+None,0.0,0.0,1
+ercot_coal,1.91,0.09552,2
+ercot_naturalgas,3.62,0.05306,3
+ercot_uranium,0.71,0.0,4
+ercot_naturalgas_ccs90,4.1,0.00531,5
+ercot_naturalgas_ccs100,4.15,0.0,6

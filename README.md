@@ -31,7 +31,7 @@ Finally, several datasets of realistic power systems are provided which students
 
 6. [DC Optimal Network Power Flow](Notebooks/06-Optimal-Power-Flow.ipynb)
 
-7. Advanced Capacity Expansion Planning
+7. [Complex Capacity Expansion Planning](Notebooks/07-Complex-Capacity-Expansion.ipynb)
 
 ### Homeworks
 
