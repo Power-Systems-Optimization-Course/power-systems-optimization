@@ -41,7 +41,9 @@ Finally, several datasets of realistic power systems are provided which students
 
 3. [Homework 3 - Unit Commitment](Homeworks/Homework-03.ipynb)
 
-3. [Homework 4 - Optimal Power Flow](Homeworks/Homework-04.ipynb)
+4. [Homework 4 - Optimal Power Flow](Homeworks/Homework-04.ipynb)
+
+5. [Homework 5 - Complex Capacity Expansion](Homeworks/Homework-05.ipynb)
 
 ### License and copyright
 
