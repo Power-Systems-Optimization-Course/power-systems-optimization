@@ -49,7 +49,7 @@ Finally, several datasets of realistic power systems are provided which students
 
 [Project dataset descriptions](Project/)
 
-1. [ERCOT 120-bus 500kV simulated system](Project/ercot_500kv/)
+1. [ERCOT 120-bus 500kV simulated system](Project/ercot_500kV/)
 
 ### License and copyright
 
