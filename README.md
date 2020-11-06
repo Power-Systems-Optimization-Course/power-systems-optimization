@@ -45,6 +45,12 @@ Finally, several datasets of realistic power systems are provided which students
 
 5. [Homework 5 - Complex Capacity Expansion](Homeworks/Homework-05.ipynb)
 
+### Project
+
+[Project dataset descriptions](Project/)
+
+1. [ERCOT 120-bus 500kV simulated system](Project/ercot_500kv/)
+
 ### License and copyright
 
 If you would like to use these materials, please see the [license and copyright page](LICENSE.md).
