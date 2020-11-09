@@ -49,7 +49,11 @@ Finally, several datasets of realistic power systems are provided which students
 
 [Project dataset descriptions](Project/)
 
-1. [ERCOT 120-bus 500kV simulated system](Project/ercot_500kV/)
+1. [ERCOT 120-bus 500kV simulated system for optimal power flow problems](ercot_500kV/)
+
+2. [ERCOT 3-zone brownfield expansion system for capacity expansion planning problems](ercot_brownfield_expansion)
+
+3. [WECC 6-zone greenfield expansion system (w/100% clean resources) for capacity planning problems](wecc_2045_greenfield_all_clean_expansion)
 
 ### License and copyright
 
