@@ -1,0 +1,7 @@
+﻿ID,Zone_name,Zone,Load_type,Max_Capacity_MW,Max_Delay_Hrs
+1,CA_N,1,ev_load_shifting,559.626,5
+2,CA_S,2,ev_load_shifting,785.349,5
+3,WECC_N,3,ev_load_shifting,447.022,5
+4,WECC_NMAZ,4,ev_load_shifting,903.914,5
+5,WECC_PNW,5,ev_load_shifting,688.733,5
+6,WECC_WYCO,6,ev_load_shifting,415.601,5
