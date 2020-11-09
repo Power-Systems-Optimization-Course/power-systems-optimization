@@ -51,9 +51,11 @@ Finally, several datasets of realistic power systems are provided which students
 
 1. [ERCOT 120-bus 500kV simulated system for optimal power flow problems](Project/ercot_500kV/)
 
-2. [ERCOT 3-zone 2040 brownfield expansion system for capacity expansion planning problems](Project/ercot_brownfield_expansion)
+2. [ERCOT 3-zone 2040 brownfield expansion system for capacity expansion planning problems](Project/ercot_brownfield_expansion) - (See [Notebook 7](Notebooks/07-Complex-Capacity-Expansion.ipynb) for description)
 
 3. [WECC 6-zone 2045 brownfield expansion system w/100% clean resources for capacity planning problems](Project/wecc_2045_all_clean_expansion)
+
+4. [WECC 12-zone 2020 current capacity for unit commitment and economic dispatch problems](Project/wecc_2045_all_clean_expansion)
 
 ### License and copyright
 
