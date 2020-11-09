@@ -5,6 +5,6 @@ Baseline data for a handful of systems geared toward different problem types are
 
 1. [ERCOT 120-bus 500kV simulated system for optimal power flow problems](ercot_500kV/)
 
-2. [ERCOT 3-zone brownfield expansion system for capacity expansion planning problems](ercot_brownfield_expansion)
+2. [ERCOT 3-zone 2040 brownfield expansion system for capacity expansion planning problems](ercot_brownfield_expansion)
 
-3. [WECC 6-zone greenfield expansion system (w/100% clean resources) for capacity planning problems](wecc_2045_greenfield_all_clean_expansion)
+3. [WECC 6-zone 2045 brownfield expansion system w/100% clean resources for capacity planning problems](wecc_2045_all_clean_expansion)
