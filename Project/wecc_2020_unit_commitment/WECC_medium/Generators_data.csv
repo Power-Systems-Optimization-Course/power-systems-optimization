@@ -1,0 +1,176 @@
+R_ID,Zone_name,Zone,Technology,Cluster,Num_units,Cap_size,Existing_Cap_MW,Existing_Cap_MWh,Fixed_OM_cost_per_MWyr,Var_OM_cost_per_MWh,Fuel,Heat_rate_MMBTU_per_MWh,heat_rate_mmbtu_mwh_iqr,heat_rate_mmbtu_mwh_std,Min_power,Ramp_Up_percentage,Ramp_Dn_percentage,Commit,Start_fuel_MMBTU_per_MW,Start_cost_per_MW,Up_time,Down_time,Charge_efficiency,Discharge_efficiency,THERM,VRE,MUSTRUN,STOR,HYDRO,RPS,CES
+1,AZ,8,Biomass,1,5,1.954,9.77,0,116511,6.809,None,15.832,1.579,2.035,0.262,1,1,1,0,0,0,0,1,1,1,0,1,0,0,1,1
+2,AZ,8,Conventional Hydroelectric,1,28,98.661,2762.508,11050,46475,0,None,9.118,0,0,0.004,0.083,0.083,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+3,AZ,8,Conventional Steam Coal,1,6,284,1704,0,62207.336,1.857,mountain_reference_coal,10.988,0.436,0.327,0.276,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+4,AZ,8,Conventional Steam Coal,2,4,406.25,1625,0,52870.11,1.857,mountain_reference_coal,10.29,0.204,0.241,0.588,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+5,AZ,8,Hydroelectric Pumped Storage,1,6,36.05,216.3,34333,40113,0,None,0,0,0,0.601,1,1,0,0,0,0,0,0.866,0.866,0,0,0,1,0,0,0
+6,AZ,8,Natural Gas Fired Combined Cycle,1,15,518.4,7776,0,10293.267,3.554,mountain_reference_naturalgas,7.578,0.488,0.464,0.368,1,1,1,2,90.95901427,0,0,1,1,1,0,0,0,0,0,0
+7,AZ,8,Natural Gas Fired Combined Cycle,2,4,276.725,1106.9,0,12206.5,3.521,mountain_reference_naturalgas,9.815,0.787,1.071,0.608,1,1,1,2,90.95901427,0,0,1,1,1,0,0,0,0,0,0
+8,AZ,8,Natural Gas Fired Combined Cycle,3,3,110.3,330.9,0,16291,4.495,mountain_reference_naturalgas,7.542,0.298,0.344,0.656,1,1,1,2,90.95901427,0,0,1,1,1,0,0,0,0,0,0
+9,AZ,8,Natural Gas Fired Combustion Turbine,1,10,37.66,376.6,0,10054.681,11.728,mountain_reference_naturalgas,12.105,0.531,1.123,0.356,1,1,1,3.5,117.9409835,0,0,1,1,1,0,0,0,0,0,0
+10,AZ,8,Natural Gas Fired Combustion Turbine,2,22,46.018,1012.396,0,7300,11.728,mountain_reference_naturalgas,10.532,0.527,0.268,0.458,1,1,1,3.5,117.9409835,0,0,1,1,1,0,0,0,0,0,0
+11,AZ,8,Natural Gas Fired Combustion Turbine,3,2,49.4,98.8,0,10962.115,11.728,mountain_reference_naturalgas,16.379,0.426,0.602,0.506,1,1,1,3.5,117.9409835,0,0,1,1,1,0,0,0,0,0,0
+12,AZ,8,Nuclear,1,3,1334.333,4002.999,0,105225,2.413,mountain_reference_uranium,10.458,0,0,0.082,0.25,0.25,1,0,244.8153402,24,24,1,1,1,0,0,0,0,0,1
+13,AZ,8,Onshore Wind Turbine,1,4,51.075,257.3,0,45062,0,None,9.118,0,0,0.024,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+14,AZ,8,Small Hydroelectric,1,9,2.125,19.125,0,46475,0,None,9.128,0.026,0.013,0.268,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+15,AZ,8,Solar Photovoltaic,1,105,17.499,2017.8,0,18715,0,None,9.126,0,0.013,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+16,CO,12,Biomass,1,10,1.408,14.08,0,116511,4.975,None,11.737,2.958,2.533,0.255,1,1,1,0,0,0,0,1,1,1,0,1,0,0,1,1
+17,CO,12,Conventional Hydroelectric,1,11,42.764,470.404,1882,46475,0,None,9.118,0,0,0,0.083,0.083,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+18,CO,12,Conventional Steam Coal,1,6,481.833,2890.998,0,55152.542,1.857,mountain_reference_coal,10.359,0.313,0.372,0.419,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+19,CO,12,Conventional Steam Coal,2,5,212,1060,0,71990.848,1.857,mountain_reference_coal,10.664,0.686,0.564,0.493,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+20,CO,12,Conventional Steam Coal,3,3,167.333,501.999,0,62152.673,1.857,mountain_reference_coal,12.781,0.576,0.585,0.514,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+21,CO,12,Hydroelectric Pumped Storage,1,5,112.5,562.5,89286,40113,0,None,0,0,0,0.267,1,1,0,0,0,0,0,0.866,0.866,0,0,0,1,0,0,0
+22,CO,12,Natural Gas Fired Combined Cycle,1,3,643.667,1931.001,0,9668,3.567,mountain_reference_naturalgas,7.535,0.414,0.439,0.326,1,1,1,2,90.95901427,0,0,1,1,1,0,0,0,0,0,0
+23,CO,12,Natural Gas Fired Combined Cycle,2,7,174.914,1224.398,0,16291,4.495,mountain_reference_naturalgas,8.194,1.734,0.994,0.456,1,1,1,2,90.95901427,0,0,1,1,1,0,0,0,0,0,0
+24,CO,12,Natural Gas Fired Combined Cycle,3,3,81,243,0,16291,4.495,mountain_reference_naturalgas,12.276,2.141,2.447,0.481,1,1,1,2,90.95901427,0,0,1,1,1,0,0,0,0,0,0
+25,CO,12,Natural Gas Fired Combustion Turbine,1,8,35,280,0,10617.643,11.728,mountain_reference_naturalgas,17.731,0.903,2.77,0.404,1,1,1,3.5,117.9409835,0,0,1,1,1,0,0,0,0,0,0
+26,CO,12,Natural Gas Fired Combustion Turbine,2,18,64.544,1161.792,0,9248.324,11.728,mountain_reference_naturalgas,11.613,0.642,0.545,0.439,1,1,1,3.5,117.9409835,0,0,1,1,1,0,0,0,0,0,0
+27,CO,12,Natural Gas Fired Combustion Turbine,3,11,121.455,1336.005,0,7300,11.728,mountain_reference_naturalgas,11.47,1.017,0.722,0.5,1,1,1,3.5,117.9409835,0,0,1,1,1,0,0,0,0,0,0
+28,CO,12,Natural Gas Steam Turbine,1,1,20,20,0,50678,1.043,mountain_reference_naturalgas,27.041,0,,0.15,1,1,1,13.7,86.41276839,0,0,1,1,1,0,0,0,0,0,0
+29,CO,12,Natural Gas Steam Turbine,2,1,310,310,0,50678,1.043,mountain_reference_naturalgas,11.131,0,,0.71,1,1,1,13.7,86.41276839,0,0,1,1,1,0,0,0,0,0,0
+30,CO,12,Onshore Wind Turbine,1,37,88.159,2662,0,45062,0,None,9.123,0,0.022,0.077,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+31,CO,12,Small Hydroelectric,1,51,1.227,62.577,0,46475,0,None,9.118,0,0,0.136,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+32,CO,12,Solar Photovoltaic,1,50,11.95,533.8,0,18715,0,None,9.146,0,0.025,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+33,ID,5,Biomass,1,15,0.749,11.235,0,116511,3.535,None,8.221,4.077,2.986,0.472,1,1,1,0,0,0,0,1,1,1,0,1,0,0,1,1
+34,ID,5,Conventional Hydroelectric,1,36,39.197,1411.092,5644,46475,0,None,9.118,0,0.015,0,0.083,0.083,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+35,ID,5,Geothermal,1,1,8.154,8.154,0,206553,0,None,9.118,0,,0.041,1,1,0,0,0,0,0,1,1,1,0,1,0,0,1,1
+36,ID,5,Natural Gas Fired Combined Cycle,1,1,319.9,319.9,0,16291,4.495,mountain_reference_naturalgas,6.993,0,,0.449,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+37,ID,5,Natural Gas Fired Combustion Turbine,1,4,123.975,495.9,0,9042,11.728,mountain_reference_naturalgas,10.771,0.059,0.117,0.618,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+38,ID,5,Natural Gas Fired Combustion Turbine,2,1,5.2,5.2,0,11493,11.728,mountain_reference_naturalgas,4.439,0,,0.058,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+39,ID,5,Onshore Wind Turbine,1,32,30.325,1696.3,0,45062,0,None,9.118,0,0,0.029,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+40,ID,5,Small Hydroelectric,1,100,1.92,192,0,46475,0,None,9.118,0,0,0.195,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+41,ID,5,Solar Photovoltaic,1,9,25.333,251.5,0,18715,0,None,9.118,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+42,MT,6,Biomass,1,1,1.602,1.602,0,116511,5.044,None,11.728,0,,0.033,1,1,1,0,0,0,0,1,1,1,0,1,0,0,1,1
+43,MT,6,Conventional Hydroelectric,1,46,54.296,2497.616,9990,46475,0,None,9.118,0,0,0.288,0.083,0.083,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+44,MT,6,Conventional Steam Coal,1,4,406.875,1627.5,0,60337.826,1.857,mountain_reference_coal,11.107,2.595,1.567,0.303,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+45,MT,6,Natural Gas Fired Combustion Turbine,1,3,48.1,144.3,0,9042,11.728,mountain_reference_naturalgas,12.516,0,0,0.104,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+46,MT,6,Onshore Wind Turbine,1,15,55.567,811.5,0,45062,0,None,9.136,0,0.032,0.008,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+47,MT,6,Small Hydroelectric,1,23,2.3,52.9,0,46475,0,None,9.118,0,0,0.255,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+48,NM,9,Biomass,1,4,1.488,5.952,0,116511,6.048,None,14.063,2.974,1.717,0.296,1,1,1,0,0,0,0,1,1,1,0,1,0,0,1,1
+49,NM,9,Conventional Steam Coal,1,2,770,1540,0,56584.5,1.857,mountain_reference_coal,9.23,0.265,0.374,0.473,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+50,NM,9,Conventional Steam Coal,2,3,366.667,1100.001,0,63306.053,1.857,mountain_reference_coal,11.055,0.561,0.562,0.355,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+51,NM,9,Geothermal,1,5,0.666,3.33,0,206553,0,None,9.118,0,0,0.377,1,1,0,0,0,0,0,1,1,1,0,1,0,0,1,1
+52,NM,9,Natural Gas Fired Combined Cycle,1,2,446.5,893,0,9668,3.567,mountain_reference_naturalgas,8.259,0.015,0.021,0.391,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+53,NM,9,Natural Gas Fired Combined Cycle,2,3,106.467,319.401,0,16291,4.495,mountain_reference_naturalgas,7.481,0.23,0.265,0.445,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+54,NM,9,Natural Gas Fired Combined Cycle,3,1,144,144,0,9668,3.567,mountain_reference_naturalgas,15.109,0,,0.403,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+55,NM,9,Natural Gas Fired Combined Cycle,4,1,83,83,0,9668,3.567,mountain_reference_naturalgas,9.162,0,,0.289,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+56,NM,9,Natural Gas Fired Combustion Turbine,1,5,47.84,239.2,0,11493,11.728,mountain_reference_naturalgas,11.162,1.271,1.139,0.242,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+57,NM,9,Natural Gas Fired Combustion Turbine,2,10,84.54,845.4,0,8290.307,11.728,mountain_reference_naturalgas,10.316,1.09,0.936,0.396,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+58,NM,9,Natural Gas Fired Combustion Turbine,3,1,64,64,0,11493,11.728,mountain_reference_naturalgas,16.514,0,,0.047,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+59,NM,9,Natural Gas Steam Turbine,1,1,48,48,0,50678,1.043,mountain_reference_naturalgas,13.246,0,,0.375,3.78,3.78,1,13.7,86.41276839,1,1,1,1,1,0,0,0,0,0,0
+60,NM,9,Natural Gas Steam Turbine,2,3,84,252,0,50678,1.043,mountain_reference_naturalgas,12.157,0,0,0.246,3.78,3.78,1,13.7,86.41276839,1,1,1,1,1,0,0,0,0,0,0
+61,NM,9,Natural Gas Steam Turbine,3,1,46,46,0,50678,1.043,mountain_reference_naturalgas,14.027,0,,0.391,3.78,3.78,1,13.7,86.41276839,1,1,1,1,1,0,0,0,0,0,0
+62,NM,9,Onshore Wind Turbine,1,10,151.51,967.8,0,45062,0,None,9.139,0,0.039,0.217,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+63,NM,9,Small Hydroelectric,1,9,2.849,25.641,0,46475,0,None,9.118,0,0,0.187,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+64,NM,9,Solar Photovoltaic,1,41,7.68,987.4,0,18715,0,None,9.118,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+65,NV,7,Biomass,1,4,1.631,6.524,0,116511,7.08,None,16.463,8.041,4.642,0.769,1,1,1,0,0,0,0,1,1,1,0,1,0,0,1,1
+66,NV,7,Conventional Hydroelectric,1,9,115.489,1039.401,4158,46475,0,None,9.118,0,0,0,0.083,0.083,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+67,NV,7,Conventional Steam Coal,1,1,268,268,0,60284,1.857,mountain_reference_coal,11.512,0,,0.336,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+68,NV,7,Conventional Steam Coal,2,1,219.2,219.2,0,67890,1.857,mountain_reference_coal,10.576,0,,0.365,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+69,NV,7,Conventional Steam Coal,3,1,254,254,0,60810,1.857,mountain_reference_coal,12.429,0,,0.354,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+70,NV,7,Geothermal,1,50,6.74,337,0,206553,0,None,9.118,0,0,0.384,1,1,0,0,0,0,0,1,1,1,0,1,0,0,1,1
+71,NV,7,Natural Gas Fired Combined Cycle,1,4,195.75,783,0,16291,4.495,mountain_reference_naturalgas,8.016,0.32,0.412,0.529,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+72,NV,7,Natural Gas Fired Combined Cycle,2,7,582.943,4080.601,0,10408.535,3.552,mountain_reference_naturalgas,7.421,0.424,0.322,0.415,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+73,NV,7,Natural Gas Fired Combined Cycle,3,3,148.667,446.001,0,9668,3.567,mountain_reference_naturalgas,9.264,0.644,0.644,0.462,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+74,NV,7,Natural Gas Fired Combined Cycle,4,3,94.367,283.101,0,16291,4.495,mountain_reference_naturalgas,9.34,0.224,0.242,0.749,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+75,NV,7,Natural Gas Fired Combustion Turbine,1,7,74,518,0,9042,11.728,mountain_reference_naturalgas,12.84,0.98,0.865,0.656,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+76,NV,7,Natural Gas Fired Combustion Turbine,2,2,4,8,0,11493,11.728,mountain_reference_naturalgas,4.558,0,0,0.125,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+77,NV,7,Natural Gas Fired Combustion Turbine,3,12,57,684,0,7300,11.728,mountain_reference_naturalgas,11.203,0,0,0.877,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+78,NV,7,Natural Gas Steam Turbine,1,2,113,226,0,50678,1.043,mountain_reference_naturalgas,11.728,0.131,0.186,0.159,3.78,3.78,1,13.7,86.41276839,1,1,1,1,1,0,0,0,0,0,0
+79,NV,7,Onshore Wind Turbine,1,1,150,111.2,0,45062,0,None,9.118,0,,1,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+80,NV,7,Small Hydroelectric,1,8,0.766,6.128,0,46475,0,None,9.118,0.001,0,0.17,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+81,NV,7,Solar Photovoltaic,1,61,38.418,3526.1,0,18715,0,None,9.144,0,0.028,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+82,NorCal,1,Biomass,1,105,2.179,228.795,0,116511,7.529,None,17.511,3.493,5.24,0.334,1,1,1,0,0,0,0,1,1,1,0,1,0,0,1,1
+83,NorCal,1,Conventional Hydroelectric,1,117,62.171,7274.007,14548,46475,0,None,9.118,0,0.009,0.06,0.083,0.083,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+84,NorCal,1,Geothermal,1,23,27.95,642.85,0,206553,0,None,9.118,0,0,0.389,1,1,0,0,0,0,0,1,1,1,0,1,0,0,1,1
+85,NorCal,1,Hydroelectric Pumped Storage,1,20,89.55,1791,284286,40113,0,None,0,0,0,0.266,1,1,0,0,0,0,0,0.866,0.866,0,0,0,1,0,0,0
+86,NorCal,1,Natural Gas Fired Combined Cycle,1,14,551.057,7714.798,0,10165.892,3.557,pacific_reference_naturalgas,7.3,0.367,0.259,0.48,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+87,NorCal,1,Natural Gas Fired Combined Cycle,2,3,66.367,199.101,0,16291,4.495,pacific_reference_naturalgas,10.619,0.412,0.457,0.442,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+88,NorCal,1,Natural Gas Fired Combined Cycle,3,5,128.94,644.7,0,16291,4.495,pacific_reference_naturalgas,6.624,0.849,0.567,0.531,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+89,NorCal,1,Natural Gas Fired Combined Cycle,4,14,145.443,2036.202,0,16291,4.495,pacific_reference_naturalgas,8.363,0.711,0.435,0.506,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+90,NorCal,1,Natural Gas Fired Combined Cycle,5,1,12.5,12.5,0,16291,4.495,pacific_reference_naturalgas,13.654,0,,0.432,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+91,NorCal,1,Natural Gas Fired Combustion Turbine,1,22,7.05,155.1,0,11493,11.728,pacific_reference_naturalgas,4.547,0.423,0.361,0.571,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+92,NorCal,1,Natural Gas Fired Combustion Turbine,2,15,51.873,778.095,0,9042,11.728,pacific_reference_naturalgas,11.117,0.739,0.46,0.401,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+93,NorCal,1,Natural Gas Fired Combustion Turbine,3,33,38.015,1254.495,0,11493,11.728,pacific_reference_naturalgas,11.063,1.326,0.817,0.582,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+94,NorCal,1,Natural Gas Fired Combustion Turbine,4,8,152.1,1216.8,0,7300,11.728,pacific_reference_naturalgas,10.81,2.246,1.2,0.559,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+95,NorCal,1,Natural Gas Fired Combustion Turbine,5,18,23.272,418.896,0,11493,11.728,pacific_reference_naturalgas,7.646,0.864,0.712,0.598,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+96,NorCal,1,Natural Gas Fired Combustion Turbine,6,12,24.717,296.604,0,11493,11.728,pacific_reference_naturalgas,15.697,0.323,1.018,0.703,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+97,NorCal,1,Natural Gas Fired Combustion Turbine,7,3,83,249,0,9042,11.728,pacific_reference_naturalgas,4.356,0,0,0.522,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+98,NorCal,1,Nuclear,1,2,1120,2240,0,105225,2.412,pacific_reference_uranium,10.455,0,0,0,0.25,0.25,1,0,244.8153402,24,24,1,1,1,0,0,0,0,0,1
+99,NorCal,1,Onshore Wind Turbine,1,30,45.437,1327.6,0,45062,0,None,9.118,0,0.023,0.089,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+100,NorCal,1,Small Hydroelectric,1,136,1.777,241.672,0,46475,0,None,9.118,0,0.002,0.085,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+101,NorCal,1,Solar Photovoltaic,1,190,17.275,2787.1,0,18715,0,None,9.134,0,0.022,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+102,PNW,4,Biomass,1,86,1.737,149.382,0,116511,6.4,None,14.882,3.027,4.015,0.336,1,1,1,0,0,0,0,1,1,1,0,1,0,0,1,1
+103,PNW,4,Conventional Hydroelectric,1,339,85.702,29052.978,116212,46475,0,None,9.118,0,0.007,0.294,0.083,0.083,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+104,PNW,4,Conventional Steam Coal,1,2,670,1340,0,56190.5,1.857,pacific_reference_coal,11.159,0.056,0.08,0.362,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+105,PNW,4,Geothermal,1,4,3.914,15.656,0,206553,0,None,9.118,0,0,0.081,1,1,0,0,0,0,0,1,1,1,0,1,0,0,1,1
+106,PNW,4,Hydroelectric Pumped Storage,1,6,52.333,313.998,49841,40113,0,None,0,0,0,0,1,1,0,0,0,0,0,0.866,0.866,0,0,0,1,0,0,0
+107,PNW,4,Natural Gas Fired Combined Cycle,1,15,254.287,3814.305,0,16291,4.495,pacific_reference_naturalgas,7.345,0.549,0.751,0.528,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+108,PNW,4,Natural Gas Fired Combined Cycle,2,4,601.25,2405,0,9668,3.567,pacific_reference_naturalgas,7.452,0.298,0.297,0.449,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+109,PNW,4,Natural Gas Fired Combined Cycle,3,2,97.25,194.5,0,16291,4.495,pacific_reference_naturalgas,12.607,0.77,1.089,0.373,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+110,PNW,4,Natural Gas Fired Combustion Turbine,1,8,94.45,755.6,0,7300,11.728,pacific_reference_naturalgas,11.373,3.719,1.988,0.321,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+111,PNW,4,Natural Gas Fired Combustion Turbine,2,4,81.1,324.4,0,9042,11.728,pacific_reference_naturalgas,27.75,1.686,0.973,0.062,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+112,PNW,4,Natural Gas Fired Combustion Turbine,3,7,34.771,243.397,0,9042,11.728,pacific_reference_naturalgas,11.427,0.474,0.253,0.588,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+113,PNW,4,Natural Gas Fired Combustion Turbine,4,2,16,32,0,11493,11.728,pacific_reference_naturalgas,12.559,0.467,0.661,0.562,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+114,PNW,4,Nuclear,1,1,1163,1163,0,105225,2.412,pacific_reference_uranium,10.455,0,,0.103,0.25,0.25,1,0,244.8153402,24,24,1,1,1,0,0,0,0,0,1
+115,PNW,4,Onshore Wind Turbine,1,70,93.476,5254,0,45062,0,None,9.122,0,0.015,0.007,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+116,PNW,4,Small Hydroelectric,1,161,2.602,418.922,0,46475,0,None,9.118,0,0,0.316,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+117,PNW,4,Solar Photovoltaic,1,32,8.678,209.9,0,18715,0,None,9.158,0.092,0.044,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+118,SD_IID,3,Biomass,1,21,1.371,28.791,0,116511,6.32,None,14.695,1.471,4.116,0.668,1,1,1,0,0,0,0,1,1,1,0,1,0,0,1,1
+119,SD_IID,3,Geothermal,1,44,10.123,445.412,0,206553,0,None,9.118,0,0,0.423,1,1,0,0,0,0,0,1,1,1,0,1,0,0,1,1
+120,SD_IID,3,Hydroelectric Pumped Storage,1,2,21,42,6667,40113,0,None,0,0,0,0,1,1,0,0,0,0,0,0.866,0.866,0,0,0,1,0,0,0
+121,SD_IID,3,Natural Gas Fired Combined Cycle,1,1,145,145,0,16291,4.495,pacific_reference_naturalgas,7.8,0,,0.524,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+122,SD_IID,3,Natural Gas Fired Combined Cycle,2,2,588.55,1177.1,0,9668,3.567,pacific_reference_naturalgas,7.338,0.185,0.261,0.357,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+123,SD_IID,3,Natural Gas Fired Combined Cycle,3,3,50.8,152.4,0,16291,4.495,pacific_reference_naturalgas,9.797,0.858,0.899,0.692,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+124,SD_IID,3,Natural Gas Fired Combustion Turbine,1,16,41.856,669.696,0,11493,11.728,pacific_reference_naturalgas,10.802,1.475,1.783,0.513,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+125,SD_IID,3,Natural Gas Fired Combustion Turbine,2,3,112,336,0,7300,11.728,pacific_reference_naturalgas,10.031,0,0,0.446,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+126,SD_IID,3,Natural Gas Fired Combustion Turbine,3,2,8.65,17.3,0,11493,11.728,pacific_reference_naturalgas,5.571,0,0,0.809,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+127,SD_IID,3,Onshore Wind Turbine,1,4,114.85,483,0,45062,0,None,9.118,0,0,0.58,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+128,SD_IID,3,Small Hydroelectric,1,22,1.437,31.614,0,46475,0,None,9.118,0,0.001,0.195,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+129,SD_IID,3,Solar Photovoltaic,1,50,30.43,3240.5,0,18715,0,None,9.134,0,0.022,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+130,SoCal,2,Biomass,1,47,2.724,128.028,0,116511,5.323,None,12.378,1.992,2.099,0.435,1,1,1,0,0,0,0,1,1,1,0,1,0,0,1,1
+131,SoCal,2,Conventional Hydroelectric,1,40,34.905,1396.2,2792,46475,0,None,9.118,0,0,0.116,0.083,0.083,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+132,SoCal,2,Conventional Steam Coal,1,1,50,50,0,71832,1.857,pacific_reference_coal,4.642,0,,0.4,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+133,SoCal,2,Geothermal,1,17,9.663,164.271,0,206553,0,None,9.118,0,0,0.187,1,1,0,0,0,0,0,1,1,1,0,1,0,0,1,1
+134,SoCal,2,Hydroelectric Pumped Storage,1,6,270.5,1623,257619,40113,0,None,0,0,0,0.037,1,1,0,0,0,0,0,0.866,0.866,0,0,0,1,0,0,0
+135,SoCal,2,Natural Gas Fired Combined Cycle,1,12,385.917,4631.004,0,9668,3.567,pacific_reference_naturalgas,7.013,0.868,0.454,0.428,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+136,SoCal,2,Natural Gas Fired Combined Cycle,2,6,132.7,796.2,0,16291,4.495,pacific_reference_naturalgas,12.651,1.801,1.202,0.637,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+137,SoCal,2,Natural Gas Fired Combined Cycle,3,7,154.729,1083.103,0,16291,4.495,pacific_reference_naturalgas,7.742,1.271,0.922,0.481,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+138,SoCal,2,Natural Gas Fired Combined Cycle,4,2,28.25,56.5,0,16291,4.495,pacific_reference_naturalgas,4.838,0.008,0.011,0.655,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+139,SoCal,2,Natural Gas Fired Combined Cycle,5,4,382,1528,0,11342.903,3.532,pacific_reference_naturalgas,8.181,0.397,0.305,0.438,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+140,SoCal,2,Natural Gas Fired Combustion Turbine,1,13,18.369,238.797,0,11493,11.728,pacific_reference_naturalgas,14.023,2.014,1.071,0.573,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+141,SoCal,2,Natural Gas Fired Combustion Turbine,2,19,99.021,1881.399,0,7300,11.728,pacific_reference_naturalgas,10.002,0.768,0.359,0.485,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+142,SoCal,2,Natural Gas Fired Combustion Turbine,3,13,19.562,254.306,0,11493,11.728,pacific_reference_naturalgas,6.22,0.933,1.215,0.621,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+143,SoCal,2,Natural Gas Fired Combustion Turbine,4,18,48.039,864.702,0,9042,11.728,pacific_reference_naturalgas,11.482,1.996,1.066,0.439,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+144,SoCal,2,Natural Gas Fired Combustion Turbine,5,4,11,44,0,11493,11.728,pacific_reference_naturalgas,21.475,0,0,0.545,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+145,SoCal,2,Natural Gas Fired Combustion Turbine,6,8,77.5,620,0,7300,11.728,pacific_reference_naturalgas,6.15,0.385,0.206,0.903,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+146,SoCal,2,Natural Gas Fired Combustion Turbine,7,19,32.595,619.305,0,11493,11.728,pacific_reference_naturalgas,10.572,1.493,0.963,0.52,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+147,SoCal,2,Natural Gas Steam Turbine,1,2,745.5,1491,0,26418,1.043,pacific_reference_naturalgas,11.921,0.267,0.377,0.101,3.78,3.78,1,13.7,86.41276839,1,1,1,1,1,0,0,0,0,0,0
+148,SoCal,2,Natural Gas Steam Turbine,2,2,134.05,268.1,0,50678,1.043,pacific_reference_naturalgas,11.537,0.203,0.288,0.298,3.78,3.78,1,13.7,86.41276839,1,1,1,1,1,0,0,0,0,0,0
+149,SoCal,2,Onshore Wind Turbine,1,66,53.847,4252.6,0,45062,0,None,9.121,0,0.011,0.019,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+150,SoCal,2,Small Hydroelectric,1,101,0.997,100.697,0,46475,0,None,8.56,0,2.335,0.184,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+151,SoCal,2,Solar Photovoltaic,1,470,13.041,6279.5,0,18715,0,None,9.131,0,0.016,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+152,UT,11,Biomass,1,11,0.823,9.053,0,116511,5.378,None,12.507,1.287,2.092,0.612,1,1,1,0,0,0,0,1,1,1,0,1,0,0,1,1
+153,UT,11,Conventional Hydroelectric,1,3,50.6,151.8,304,46475,0,None,9.118,0,0,0,0.083,0.083,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+154,UT,11,Conventional Steam Coal,1,3,455.667,1367.001,0,64629.819,1.857,mountain_reference_coal,10.407,0.384,0.384,0.329,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+155,UT,11,Conventional Steam Coal,2,1,51,51,0,69861,1.857,mountain_reference_coal,12.083,0,,0.686,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+156,UT,11,Conventional Steam Coal,3,5,632.2,3161,0,54700.265,1.857,mountain_reference_coal,10.12,0.693,0.397,0.36,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+157,UT,11,Geothermal,1,5,7.154,35.77,0,206553,0,None,9.118,0,0,0.141,1,1,0,0,0,0,0,1,1,1,0,1,0,0,1,1
+158,UT,11,Natural Gas Fired Combined Cycle,1,1,140,140,0,16291,4.495,mountain_reference_naturalgas,8.666,0,,0.071,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+159,UT,11,Natural Gas Fired Combined Cycle,2,3,588.467,1765.401,0,11391.658,3.531,mountain_reference_naturalgas,7.395,0.111,0.12,0.374,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+160,UT,11,Natural Gas Fired Combustion Turbine,1,8,40.625,325,0,9042,11.728,mountain_reference_naturalgas,13.253,6.076,3.145,0.4,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+161,UT,11,Natural Gas Fired Combustion Turbine,2,11,16.409,180.499,0,11493,11.728,mountain_reference_naturalgas,9.697,2.123,2.421,0.644,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+162,UT,11,Natural Gas Fired Combustion Turbine,3,4,5.05,20.2,0,11493,11.728,mountain_reference_naturalgas,17.142,0.637,1.275,0.455,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+163,UT,11,Onshore Wind Turbine,1,5,77.64,1284.9,0,45062,0,None,9.118,0,0,0.007,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+164,UT,11,Small Hydroelectric,1,51,0.722,36.822,0,46475,0,None,9.121,0,0.019,0.15,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+165,UT,11,Solar Photovoltaic,1,35,34.149,652.3,0,18715,0,None,9.144,0,0.033,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+166,WY,10,Conventional Hydroelectric,1,12,19.408,232.896,466,46475,0,None,9.118,0,0,0,0.083,0.083,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+167,WY,10,Conventional Steam Coal,1,5,140,700,0,70041.904,1.857,mountain_reference_coal,12.298,0.425,0.461,0.397,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+168,WY,10,Conventional Steam Coal,2,11,350.818,3858.998,0,62040.543,1.857,mountain_reference_coal,10.722,0.623,0.399,0.29,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+169,WY,10,Conventional Steam Coal,3,3,570,1710,0,55029.333,1.857,mountain_reference_coal,10.182,0.116,0.129,0.368,0.57,0.57,1,16.5,122.3963045,24,24,1,1,1,0,0,0,0,0,0
+170,WY,10,Natural Gas Fired Combined Cycle,1,1,94,94,0,16291,4.495,mountain_reference_naturalgas,7.814,0,,0.479,0.64,0.64,1,2,90.95901427,6,6,1,1,1,0,0,0,0,0,0
+171,WY,10,Natural Gas Fired Combustion Turbine,1,6,6,36,0,11493,11.728,mountain_reference_naturalgas,20.416,1.954,1.07,0.083,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+172,WY,10,Natural Gas Fired Combustion Turbine,2,4,37.5,150,0,11493,11.728,mountain_reference_naturalgas,10.721,0.661,0.902,0.596,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+173,WY,10,Natural Gas Fired Combustion Turbine,3,3,6,18,0,11493,11.728,mountain_reference_naturalgas,16.671,0,0,0.083,3.78,3.78,1,3.5,117.9409835,1,1,1,1,1,0,0,0,0,0,0
+174,WY,10,Onshore Wind Turbine,1,35,86.209,3089.7,0,45062,0,None,9.164,0,0.026,0.008,1,1,0,0,0,0,0,1,1,0,1,0,0,0,1,1
+175,WY,10,Small Hydroelectric,1,18,1.845,33.21,0,46475,0,None,9.118,0,0,0.031,1,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1
