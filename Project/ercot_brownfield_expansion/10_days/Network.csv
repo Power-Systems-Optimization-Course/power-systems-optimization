@@ -1,0 +1,4 @@
+Region description,Network_zones,DistrZones,CES,RPS,CO_2_Max_Mtons,CO_2_Max_ton_MWh,CO_2_Import_ton_MWh,CO_2_Export_ton_MWh,Network_lines,z1,z2,z3,Line_Max_Flow_MW,Line_Min_Flow_MW,Transmission Path Name,distance_mile,Line_Loss_Percentage,Line_Max_Reinforcement_MW,Line_Reinforcement_Cost_per_MW_yr
+ERC_P,z1,0,,,0,-1,0,0,1.0,1.0,0.0,-1.0,3702.0,-3702.0,ERC_P_to_ERC_W,195.5,0.0196,3702.0,21032.0
+ERC_R,z2,0,,,0,-1,0,0,2.0,0.0,1.0,-1.0,5529.0,-10555.0,ERC_R_to_ERC_W,256.5,0.0256,5529.0,27595.0
+ERC_W,z3,0,,,0,-1,0,0,,,,,,,,,,,

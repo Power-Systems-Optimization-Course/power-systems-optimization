@@ -1,0 +1,9 @@
+Fuel,Cost_per_MMBtu,CO2_content_tons_per_MMBtu,fuel_indices
+None,0,0,1
+rockies_uranium,0.69,0,2
+pacific_naturalgas_ccs90,4.48,0.00531,3
+pacific_uranium,0.69,0,4
+pacific_naturalgas_ccs100,4.53,0,5
+rockies_naturalgas_ccs90,4.78,0.00531,6
+rockies_naturalgas_ccs100,4.83,0,7
+biogas,33,0,8
