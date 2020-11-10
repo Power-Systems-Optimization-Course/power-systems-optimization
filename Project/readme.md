@@ -9,4 +9,4 @@ Baseline data for a handful of systems geared toward different problem types are
 
 3. [WECC 6-zone 2045 brownfield expansion system w/100% clean resources for capacity planning problems](wecc_2045_all_clean_expansion)
 
-4. [WECC 12-zone 2020 current capacity for unit commitment and economic dispatch problems](wecc_2045_all_clean_expansion)
+4. [WECC 12-zone 2020 current capacity for unit commitment and economic dispatch problems](wecc_2020_unit_commitment)
