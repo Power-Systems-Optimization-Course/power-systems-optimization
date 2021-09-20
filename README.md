@@ -3,9 +3,9 @@ Power Systems Optimization
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-These course materials are jointly developed by [Michael Davidson](http://mdavidson.org/) and [Jesse Jenkins](https://mae.princeton.edu/people/faculty/jenkins) for introducing constrained optimization models applied to power systems. In **Fall 2020**, these materials will be used for:
+These course materials are jointly developed by [Michael Davidson](http://mdavidson.org/) and [Jesse Jenkins](https://mae.princeton.edu/people/faculty/jenkins) for introducing constrained optimization models applied to power systems. The materials will be used for:
 - [MAE / ENE 539](https://registrar.princeton.edu/course-offerings/course-details?term=1212&courseid=008273) Optimization Methods for Energy Systems Engineering (Advanced Topics in Combustion I) [Princeton]
-- MAE 207 Electric Power Systems Modeling (Topics in Engineering Science) [UC San Diego]
+- [MAE 207](https://mdavidson.org/2020-09-03-new-course-mae207-power-systems-modeling/) Electric Power Systems Modeling (Topics in Engineering Science) [UC San Diego]
 
 ### Description
 
