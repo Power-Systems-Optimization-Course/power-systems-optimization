@@ -1,3 +1,3 @@
-connNode	c2	c1	c0	PgMax	PgMin	RgMax	RgMin	PgPrev
-1	0.0430293	20	0	332.4	0	100	-100	161.619
-2	0.25	20	0	140	0	100	-100	97.4704
+connnode,c2,c1,c0,PgMax,PgMin,RgMax,RgMin,PgPrev
+"1	","0.0430293	",20,0,300,0,100,-100,161.62
+"2	",0.25,35,0,140,0,100,-100,97.47
