@@ -5,7 +5,7 @@ Power Systems Optimization
 
 These course materials are jointly developed by [Michael Davidson](http://mdavidson.org/) and [Jesse Jenkins](https://mae.princeton.edu/people/faculty/jenkins) for introducing constrained optimization models applied to power systems. The materials will be used for:
 - [MAE / ENE 539](https://registrar.princeton.edu/course-offerings/course-details?term=1212&courseid=008273) Optimization Methods for Energy Systems Engineering (Advanced Topics in Combustion I) [Princeton]
-- [MAE 207](https://mdavidson.org/2020-09-03-new-course-mae207-power-systems-modeling/) Electric Power Systems Modeling (Topics in Engineering Science) [UC San Diego]
+- [MAE 243](https://catalog.ucsd.edu/courses/MAE.html#mae243) Electric Power Systems Modeling [UC San Diego]
 
 ### Description
 
@@ -56,6 +56,15 @@ Finally, several datasets of realistic power systems are provided which students
 3. [WECC 6-zone 2045 brownfield expansion system w/100% clean resources for capacity planning problems](Project/wecc_2045_all_clean_expansion)
 
 4. [WECC 12-zone 2020 current capacity for unit commitment and economic dispatch problems](Project/wecc_2020_unit_commitment)
+
+### Tutorials
+
+1. [Julia Tutorial](Tutorials/julia_tutorial.ipynb)
+
+2. [JuMP: Diagnosing infeasible models](Tutorials/jump_infeasibilities.ipynb)
+
+3. [Debugging a Julia script with VS Code](Tutorials/Debugging%20with%20VS%20Code.md)
+
 
 ### License and copyright
 
