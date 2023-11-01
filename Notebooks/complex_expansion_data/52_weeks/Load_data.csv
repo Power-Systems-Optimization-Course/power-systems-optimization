@@ -1,6 +1,6 @@
 Voll,Demand_segment,Cost_of_demand_curtailment_perMW,Max_demand_curtailment,$/MWh,Subperiods,Hours_per_period,Sub_Weights,Time_index,Load_MW_z1,Load_MW_z2,Load_MW_z3
-9000.0,1.0,1.0,1.0,9000.0,1.0,168.0,1.0,1,0,32561,3005
-,2.0,0.067,0.075,603.0,,,,2,0,32093,3012
+9000,1,1,1,9000,1,8760,8760,1,0,32561,3005
+,2,0.067,0.075,603,,,,2,0,32093,3012
 ,,,,,,,,3,0,32077,3053
 ,,,,,,,,4,0,32606,3124
 ,,,,,,,,5,0,33687,3207
