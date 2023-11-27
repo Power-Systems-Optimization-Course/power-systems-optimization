@@ -1,0 +1,10 @@
+Fuel,Cost_per_MMBtu,CO2_content_tons_per_MMBtu,fuel_indices
+None,0,0,1
+pacific_naturalgas,0.05306,4.79,2
+pacific_coal,0.09552,2.19,3
+mountain_coal,0.09552,1.63,4
+mountain_naturalgas,0.05306,4.98,5
+mountain_uranium,0,0.84,6
+pacific_uranium,0,0.84,7
+pacific_naturalgas_ccs90,0.00531,4.79,8
+mountain_naturalgas_ccs90,0.00531,4.98,9
