@@ -1,4 +1,4 @@
-Fuel,Cost_per_MMBtu,CO2_content_tons_per_MMBtu,fuel_indices
+Fuel,CO2_content_tons_per_MMBtu,Cost_per_MMBtu,fuel_indices
 None,0,0,1
 pacific_naturalgas,0.05306,4.79,2
 pacific_coal,0.09552,2.19,3
