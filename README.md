@@ -1,7 +1,7 @@
 Power Systems Optimization
 -
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/east-winds/power-systems-optimization/mybinder)
 
 These course materials are jointly developed by [Michael Davidson](http://mdavidson.org/) and [Jesse Jenkins](https://mae.princeton.edu/people/faculty/jenkins) for introducing constrained optimization models applied to power systems. The materials will be used for:
 - [MAE / ENE 539](https://registrar.princeton.edu/course-offerings/course-details?term=1212&courseid=008273) Optimization Methods for Energy Systems Engineering (Advanced Topics in Combustion I) [Princeton]
