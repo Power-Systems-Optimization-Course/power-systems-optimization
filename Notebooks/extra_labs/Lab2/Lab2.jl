@@ -1,12 +1,12 @@
 using Gurobi
-include("Lab1_code.jl")
+include("Lab2_code.jl")
 
 # REPLACE THIS WITH YOUR PATH TO INPUT DATA:
 inputs_directory = "/Users/gabrielmantegna/Documents/GitHub/power-systems-optimization/Notebooks/complex_expansion_data"
 inputs_path = joinpath(inputs_directory, "10_days")
 
 # REPLACE THIS WITH YOUR PATH TO WHERE YOU WANT TO OUTPUT DATA:
-outputs_directory = "/Users/gabrielmantegna/Documents/GitHub/power-systems-optimization/Notebooks/Lab1_results"
+outputs_directory = "/Users/gabrielmantegna/Documents/GitHub/power-systems-optimization/Notebooks/Lab2_results"
 if !(isdir(outputs_directory))
 	mkdir(outputs_directory)
 end
