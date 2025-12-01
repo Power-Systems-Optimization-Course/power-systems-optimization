@@ -119,7 +119,7 @@ function scaling!(inputs::Dict{Symbol,Any})
 
 end
 
-function generate_monolithic_model(inputs::Dict{Symbol,Any})
+function generate_monolithic_model(inputs::Dict{Symbol,Any}, optimizer="HiGHS")
 
     sample_weight = inputs[:sample_weight];
 
@@ -143,7 +143,13 @@ function generate_monolithic_model(inputs::Dict{Symbol,Any})
     NEW = inputs[:NEW];
     OLD = inputs[:OLD];
 
-    Expansion_Model = Model(optimizer_with_attributes(HiGHS.Optimizer, "solver" => "ipm"))
+    local Expansion_Model
+    if optimizer == "HiGHS"
+        # Expansion_Model = Model(optimizer_with_attributes(HiGHS.Optimizer, "solver" => "ipm"))
+        Expansion_Model = Model(optimizer_with_attributes(HiGHS.Optimizer))
+    elseif optimizer == "Gurobi"
+        Expansion_Model = Model(Gurobi.Optimizer)
+    end
 
     @variables(Expansion_Model, begin
         vCAP[g in G]            >= 0     # power capacity (MW)
@@ -251,7 +257,7 @@ function generate_monolithic_model(inputs::Dict{Symbol,Any})
 
 end
 
-function generate_planning_model(inputs::Dict{Symbol,Any})
+function generate_planning_model(inputs::Dict{Symbol,Any}, optimizer="HiGHS")
 
     G = inputs[:G];
 
@@ -264,7 +270,13 @@ function generate_planning_model(inputs::Dict{Symbol,Any})
     NEW = inputs[:NEW];
     OLD = inputs[:OLD];
 
-    Planning_Model = Model(optimizer_with_attributes(HiGHS.Optimizer, "solver" => "ipm"))
+    local Planning_Model
+    if optimizer == "HiGHS"
+        # Planning_Model = Model(optimizer_with_attributes(HiGHS.Optimizer, "solver" => "ipm"))
+        Planning_Model = Model(optimizer_with_attributes(HiGHS.Optimizer))
+    elseif optimizer == "Gurobi"
+        Planning_Model = Model(Gurobi.Optimizer)
+    end
 
     @variables(Planning_Model, begin
         vCAP[g in G]            >= 0     # power capacity (MW)
@@ -326,7 +338,7 @@ function generate_planning_model(inputs::Dict{Symbol,Any})
 
 end
 
-function generate_operation_model(inputs::Dict{Symbol,Any})
+function generate_operation_model(inputs::Dict{Symbol,Any}, optimizer="HiGHS")
 
     sample_weight = inputs[:sample_weight];
 
@@ -347,7 +359,12 @@ function generate_operation_model(inputs::Dict{Symbol,Any})
 
     STOR = inputs[:STOR];
 
-    Operation_Model =  Model(optimizer_with_attributes(HiGHS.Optimizer, "solver" => "ipm"))
+    local Operation_Model
+    if optimizer == "HiGHS"
+        Operation_Model =  Model(optimizer_with_attributes(HiGHS.Optimizer, "solver" => "ipm"))
+    elseif optimizer == "Gurobi"
+        Operation_Model =  Model(Gurobi.Optimizer)
+    end
 
     @variables(Operation_Model, begin
         vCAP[g in G]            
@@ -418,7 +435,7 @@ function generate_operation_model(inputs::Dict{Symbol,Any})
 
 end
 
-function generate_decomposed_operation_models(inputs::Dict{Symbol,Any})
+function generate_decomposed_operation_models(inputs::Dict{Symbol,Any}, optimizer)
 
     P = inputs[:P];
     hours_per_period = inputs[:hours_per_period];
@@ -426,7 +443,7 @@ function generate_decomposed_operation_models(inputs::Dict{Symbol,Any})
     for p in P
         inputs_p = deepcopy(inputs);
         inputs_p[:T] = collect((p-1)*hours_per_period + 1 : p*hours_per_period);
-        subp = generate_operation_model(inputs_p);
+        subp = generate_operation_model(inputs_p, optimizer);
         push!(subproblems,subp)
     end
 
@@ -442,7 +459,7 @@ function solve_decomposed_operation_models(operation_models::Vector{AbstractMode
 
     N = length(operation_models);
 
-    Threads.@threads for p in 1:N
+    for p in 1:N
 
         m = operation_models[p];
 
@@ -458,12 +475,17 @@ function solve_decomposed_operation_models(operation_models::Vector{AbstractMode
         λ_vE_CAP[p] = dual.(FixRef.(m[:vE_CAP]));
         λ_vT_CAP[p] = dual.(FixRef.(m[:vT_CAP]));
 
+        print(".")
+
     end
 
     return operation_optval,λ_vCAP,λ_vE_CAP,λ_vT_CAP
 end
 
-function benders_iterations(MaxIter::Int64,planning_model::AbstractModel,operation_models::Vector{AbstractModel})
+function benders_iterations(MaxIter::Int64,
+        planning_model::AbstractModel,
+        operation_models::Vector{AbstractModel}, optimizer;
+        tol, verbose=false)
 
     P = collect(eachindex(operation_models));
 
@@ -471,18 +493,48 @@ function benders_iterations(MaxIter::Int64,planning_model::AbstractModel,operati
 
     lower_bound = 0 
     
-    tol = 1e-3;
+    # tol = 1e-1;
 
     vCAP_best = [];
     vE_CAP_best = [];
     vT_CAP_best = [];
 
+    # if verbose
+        if optimizer == "Gurobi"
+            set_optimizer_attribute(planning_model, "OutputFlag", Int(verbose))
+            set_optimizer_attribute(operation_models[1], "OutputFlag", Int(verbose))
+        end
+        
+        if optimizer == "HiGHS"
+            set_optimizer_attribute(planning_model, "log_to_console", verbose)
+            set_optimizer_attribute(operation_models[1], "log_to_console", verbose)
+        
+            set_optimizer_attribute(planning_model, "output_flag", verbose)
+            set_optimizer_attribute(operation_models[1], "output_flag", verbose)
+        end
+    # end
+
     println("Iteration  Lower Bound  Upper Bound          Gap")
+
+    planning_times = []
+    ops_times = []
 
     for k in 1:MaxIter
 
         ### Solve planning model
-        optimize!(planning_model)
+        planning_time = @elapsed optimize!(planning_model)
+        append!(planning_times, planning_time)        
+
+        if verbose
+            for __ in 3
+                println()
+            end
+            println("========")
+            println("END master, start SUBproblem______")
+            for __ in 3
+                println()
+            end
+        end
 
         ### Obtain new lower bound
         lower_bound = objective_value(planning_model)
@@ -497,7 +549,8 @@ function benders_iterations(MaxIter::Int64,planning_model::AbstractModel,operati
                     + value(planning_model[:eFixedCostsTransmission])
 
         ### Solve operational models to evaluate new capacity decisions
-        operation_optval,λ_vCAP,λ_vE_CAP,λ_vT_CAP = solve_decomposed_operation_models(operation_models,vCAP_k,vE_CAP_k,vT_CAP_k)
+        ops_time = @elapsed operation_optval,λ_vCAP,λ_vE_CAP,λ_vT_CAP = solve_decomposed_operation_models(operation_models,vCAP_k,vE_CAP_k,vT_CAP_k)
+        append!(ops_times, ops_time)
     
         ### Update upper bound
         upper_bound_new = fix_costs + sum(operation_optval[p] for p in P)
@@ -511,7 +564,21 @@ function benders_iterations(MaxIter::Int64,planning_model::AbstractModel,operati
 
         gap = (upper_bound-lower_bound)/lower_bound;
 
-        print_iteration(k, lower_bound, upper_bound, gap)
+        
+
+        if verbose
+            for __ in 3
+                println()
+            end
+            println("========")
+            print_iteration(k, lower_bound, upper_bound, gap)
+            println("========")
+            for __ in 3
+                println()
+            end
+        else
+            print_iteration(k, lower_bound, upper_bound, gap)
+        end
 
         ### Check if convergence is satisfied
         if  gap > tol
@@ -528,10 +595,11 @@ function benders_iterations(MaxIter::Int64,planning_model::AbstractModel,operati
 
 
         else
+            @info "Convergence tolerance satisfied! (gap = $(gap)) !"
 
-            @info "Convergence tolerance satisfied!"
-
-            return (vCAP = vCAP_best,vE_CAP=vE_CAP_best,vT_CAP=vT_CAP_best)
+            return (vCAP = vCAP_best,vE_CAP=vE_CAP_best,vT_CAP=vT_CAP_best,
+                    planning_model = planning_model,
+                    planning_times = planning_times, ops_times = ops_times)
         
         end
         
