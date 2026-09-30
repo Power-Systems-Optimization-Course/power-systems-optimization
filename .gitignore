@@ -32,3 +32,9 @@ Manifest.toml
 
 Notebooks/results/*
 
+# Never publish solutions
+Homeworks/written_psets/
+Homeworks/HW*_Results/
+*-with-solutions*
+*_solutions.ipynb
+
